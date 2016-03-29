@@ -41,12 +41,7 @@
     <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, ProtectedInternalAsProtected, PublicCompilerGenerated</VisibleItems>
     <MissingTags>Summary, Parameter, Returns, AutoDocumentCtors, Namespace, TypeParameter, AutoDocumentDispose</MissingTags>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\SpaceEngineers\SpaceEngineers.sln" configuration="SpaceEngineers" platform="x86" />
-      <DocumentationSource sourceFile="..\SpaceEngineers\Sources\Sandbox.Common\Sandbox.Common.csproj" configuration="SpaceEngineers" platform="x86" />
-      <DocumentationSource sourceFile="..\SpaceEngineers\Sources\Sandbox.Game\Sandbox.Game.csproj" configuration="SpaceEngineers" platform="x86" />
-      <DocumentationSource sourceFile="..\SpaceEngineers\Sources\SpaceEngineers.ObjectBuilders\SpaceEngineers.ObjectBuilders.csproj" configuration="SpaceEngineers" platform="x86" />
-      <DocumentationSource sourceFile="..\SpaceEngineers\Sources\VRage.Game\VRage.Game.csproj" configuration="SpaceEngineers" platform="x86" />
-      <DocumentationSource sourceFile="..\SpaceEngineers\Sources\VRage\VRage.csproj" configuration="SpaceEngineers" platform="x86" />
+      <DocumentationSource sourceFile="..\SpaceEngineers\SpaceEngineers.sln" platform="x86" />
     </DocumentationSources>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
