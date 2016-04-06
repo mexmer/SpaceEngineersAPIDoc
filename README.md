@@ -15,25 +15,25 @@ After you setup source build SE source in Release|x86 configuration, then you ca
 ### Note
 I suggest to add following lines into your user.preps inside SE source folder, this will generate xmldoc, otherwise SHFB will need to disamble dlls to get proper interfaces, and you will most likely miss all comments.
 
->  &lt;PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' "&gt; 
->    &lt;DocumentationFile&gt;$(OutDir)\$(ProjectName).xml&lt;/DocumentationFile&gt;
->  &lt;/PropertyGroup&gt;
+>  &lt;PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' "&gt;  
+    &lt;DocumentationFile&gt;$(OutDir)\$(ProjectName).xml&lt;/DocumentationFile&gt;  
+  &lt;/PropertyGroup&gt;  
 
 ### Source location
 you can use user.props to define own source directory location
 sample user.props
 
->  &lt;?xml version="1.0" encoding="utf-8"?&gt; 
->  &lt;Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
->    &lt;ImportGroup Label="PropertySheets" /&gt;
->    &lt;PropertyGroup Label="UserMacros" /&gt;
->    &lt;PropertyGroup&gt;
->      &lt;SESource&gt;D:\SourceCode\Github\SpaceEngineers\&lt;/SESource&gt;
->    &lt;/PropertyGroup&gt;
->    &lt;ItemDefinitionGroup /&gt;
->    &lt;ItemGroup /&gt;
->    &lt;ImportGroup /&gt;
->  &lt;/Project&gt;
+>  &lt;?xml version="1.0" encoding="utf-8"?&gt;  
+  &lt;Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;  
+    &lt;ImportGroup Label="PropertySheets" /&gt;  
+    &lt;PropertyGroup Label="UserMacros" /&gt;  
+    &lt;PropertyGroup&gt;  
+      &lt;SESource&gt;D:\SourceCode\Github\SpaceEngineers\&lt;/SESource&gt;  
+    &lt;/PropertyGroup&gt;  
+    &lt;ItemDefinitionGroup /&gt;  
+    &lt;ItemGroup /&gt;  
+    &lt;ImportGroup /&gt;  
+  &lt;/Project&gt;  
 
 
 ### Comment
