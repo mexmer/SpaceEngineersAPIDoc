@@ -1,1 +1,5 @@
 Help/
+user.props
+**/*.suo
+**/bin/
+**/obj/
