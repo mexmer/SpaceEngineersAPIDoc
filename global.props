@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <SESource>..\SpaceEngineers\</SESource>
+    <SESource>..\SpaceEngineers</SESource>
   </PropertyGroup>
   <ItemDefinitionGroup />
   <ItemGroup />

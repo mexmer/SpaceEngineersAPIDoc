@@ -28,7 +28,7 @@ sample user.props
     &lt;ImportGroup Label="PropertySheets" /&gt;  
     &lt;PropertyGroup Label="UserMacros" /&gt;  
     &lt;PropertyGroup&gt;  
-      &lt;SESource&gt;D:\SourceCode\Github\SpaceEngineers\&lt;/SESource&gt;  
+      &lt;SESource&gt;D:\SourceCode\Github\SpaceEngineers &lt;/SESource&gt;  
     &lt;/PropertyGroup&gt;  
     &lt;ItemDefinitionGroup /&gt;  
     &lt;ItemGroup /&gt;  
