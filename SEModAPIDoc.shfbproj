@@ -34,7 +34,7 @@
     <RootNamespaceContainer>True</RootNamespaceContainer>
     <PresentationStyle>VS2013</PresentationStyle>
     <Preliminary>True</Preliminary>
-    <NamingMethod>Guid</NamingMethod>
+    <NamingMethod>HashedMemberName</NamingMethod>
     <HelpTitle>Space Engineers ModAPI Reference</HelpTitle>
     <ContentPlacement>BelowNamespaces</ContentPlacement>
     <WebsiteSdkLinkType>Msdn</WebsiteSdkLinkType>
@@ -359,11 +359,11 @@
   <!-- The pre-build and post-build event properties must appear *after* the targets file import in order to be
 			 evaluated correctly. -->
   <PropertyGroup>
-    <PreBuildEvent>del  /S /Q $(ProjectDir)\gh-pages\toc\*.*
-del  /S /Q $(ProjectDir)\gh-pages\html\*.*
-del  /S /Q $(ProjectDir)\gh-pages\fti\*.*
+    <PreBuildEvent>del  /S /Q "$(ProjectDir)gh-pages\toc\*.*"
+del  /S /Q "$(ProjectDir)gh-pages\html\*.*"
+del  /S /Q "$(ProjectDir)gh-pages\fti\*.*"
 </PreBuildEvent>
-    <PostBuildEvent>xcopy /E /Y $(OutDir)\*.* $(ProjectDir)\gh-pages\</PostBuildEvent>
+    <PostBuildEvent>xcopy /E /Y "$(ProjectDir)$(OutputPath)*.*" "$(ProjectDir)gh-pages\"</PostBuildEvent>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
   </PropertyGroup>
 </Project>
