@@ -17,7 +17,7 @@
     <Name>Documentation</Name>
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.0</FrameworkVersion>
-    <OutputPath>gh-pages\</OutputPath>
+    <OutputPath>Help\</OutputPath>
     <HtmlHelpName>DocumentationModAPI</HtmlHelpName>
     <Language>en-US</Language>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
@@ -37,7 +37,7 @@
     <NamingMethod>Guid</NamingMethod>
     <HelpTitle>Space Engineers ModAPI Reference</HelpTitle>
     <ContentPlacement>BelowNamespaces</ContentPlacement>
-    <WebsiteSdkLinkType>None</WebsiteSdkLinkType>
+    <WebsiteSdkLinkType>Msdn</WebsiteSdkLinkType>
     <HtmlSdkLinkType>None</HtmlSdkLinkType>
     <IncludeFavorites>True</IncludeFavorites>
     <BinaryTOC>True</BinaryTOC>
@@ -331,7 +331,8 @@
 <Filter entryType="Namespace" fullName="VRageRender.Messages" isExposed="False" />
 <Filter entryType="Namespace" fullName="VRageRender.Profiler" isExposed="False" />
 <Filter entryType="Namespace" fullName="VRageRender.Textures" isExposed="False" /></ApiFilter>
-    <WorkingPath>tmp\</WorkingPath>
+    <WorkingPath>
+    </WorkingPath>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
@@ -356,10 +357,11 @@
   <!-- The pre-build and post-build event properties must appear *after* the targets file import in order to be
 			 evaluated correctly. -->
   <PropertyGroup>
-    <PreBuildEvent>
-    </PreBuildEvent>
-    <PostBuildEvent>
-    </PostBuildEvent>
+    <PreBuildEvent>del $(ProjectDir)\gh-pages\toc\*.*
+del $(ProjectDir)\gh-pages\html\*.*
+del $(ProjectDir)\gh-pages\fti\*.*
+</PreBuildEvent>
+    <PostBuildEvent>xcopy /E /Y $(OutDir)\*.* $(ProjectDir)\gh-pages\</PostBuildEvent>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
   </PropertyGroup>
 </Project>
