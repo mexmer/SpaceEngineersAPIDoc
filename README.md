@@ -10,12 +10,12 @@ __Example__
 * _SE Source folder_ D:\Sources\Github\SpaceEngineers
 * _SE Doc source folder_  D:\Sources\Github\SpaceEngineersAPIDoc
 
-After you setup source build SE source in Release|x86 configuration, then you can build SHFB project.
+After you setup source build SE source in Release|x64 configuration (there will be no more updates for x86, so you need to setup 64bit build), then you can build SHFB project.
 
 ### Note
 I suggest to add following lines into your user.preps inside SE source folder, this will generate xmldoc, otherwise SHFB will need to disamble dlls to get proper interfaces, and you will most likely miss all comments.
 
->  &lt;PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' "&gt;  
+>  &lt;PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release' "&gt;  
     &lt;DocumentationFile&gt;$(OutDir)\$(ProjectName).xml&lt;/DocumentationFile&gt;  
   &lt;/PropertyGroup&gt;  
 

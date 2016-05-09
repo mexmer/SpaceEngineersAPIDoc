@@ -44,15 +44,15 @@
     <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, ProtectedInternalAsProtected</VisibleItems>
     <MissingTags>Summary, Parameter, Returns, Value, AutoDocumentCtors, Namespace, TypeParameter</MissingTags>
     <DocumentationSources>
-      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Common\Sandbox.Common.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Game\Sandbox.Game.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Graphics\Sandbox.Graphics.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\SpaceEngineers.Game\SpaceEngineers.Game.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\SpaceEngineers.ObjectBuilders\SpaceEngineers.ObjectBuilders.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\VRage\VRage.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Game\VRage.Game.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Library\VRage.Library.csproj" platform="x86" />
-      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Math\VRage.Math.csproj" platform="x86" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Common\Sandbox.Common.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Game\Sandbox.Game.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Graphics\Sandbox.Graphics.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\SpaceEngineers.Game\SpaceEngineers.Game.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\SpaceEngineers.ObjectBuilders\SpaceEngineers.ObjectBuilders.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\VRage\VRage.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Game\VRage.Game.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Library\VRage.Library.csproj" platform="x64" />
+      <DocumentationSource sourceFile="$(SESource)\Sources\VRage.Math\VRage.Math.csproj" platform="x64" />
     </DocumentationSources>
     <TocParentId>-1</TocParentId>
     <TocParentVersion>100</TocParentVersion>
@@ -63,276 +63,269 @@
     <CatalogProductId>VS</CatalogProductId>
     <ApiFilter>
       <Filter entryType="Namespace" fullName="" isExposed="False" />
-      <Filter entryType="Namespace" fullName="BulletXNA" isExposed="False" />
-      <Filter entryType="Namespace" fullName="BulletXNA.BulletCollision" isExposed="False" />
-      <Filter entryType="Namespace" fullName="BulletXNA.LinearMath" isExposed="False" />
-      <Filter entryType="Namespace" fullName="DShowNET" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Entities.Blocks" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Havok" isExposed="False" />
-      <Filter entryType="Namespace" fullName="KeenSoftwareHouse.Library.Extensions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="KeenSoftwareHouse.Library.IO" isExposed="False" />
-      <Filter entryType="Namespace" fullName="LitJson" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Medieval.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Medieval.Definitions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Medieval.ObjectBuilders" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Medieval.ObjectBuilders.Definitions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="ParallelTasks" isExposed="False">
-        <Filter entryType="Interface" fullName="ParallelTasks.IWork" filterName="IWork" isExposed="True" />
-        <Filter entryType="Structure" fullName="ParallelTasks.Task" filterName="Task" isExposed="True" />
-        <Filter entryType="Structure" fullName="ParallelTasks.WorkOptions" filterName="WorkOptions" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="ProtoBuf" isExposed="False" />
-      <Filter entryType="Namespace" fullName="ProtoBuf.Meta" isExposed="False" />
-      <Filter entryType="Namespace" fullName="ProtoBuf.ServiceModel" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.AppCode" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Common" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Definitions" isExposed="False">
-        <Filter entryType="Class" fullName="Sandbox.Definitions.MyDefinitionManager" filterName="MyDefinitionManager" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Multiplayer" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Networking" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Physics" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Platform" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Platform.VideoMode" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Utils" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Voxels" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Engine.Voxels.Planet" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game" isExposed="False">
-        <Filter entryType="Class" fullName="Sandbox.Game.MyStatLogic" filterName="MyStatLogic" isExposed="True" />
-        <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatAction" filterName="MyStatLogic.MyStatAction" isExposed="False" />
-        <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatEfficiencyModifier" filterName="MyStatLogic.MyStatEfficiencyModifier" isExposed="False" />
-        <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatRegenModifier" filterName="MyStatLogic.MyStatRegenModifier" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.Actions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.BehaviorTree" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.Commands" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.Logic" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.Navigation" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.AI.Pathfinding" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Components" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities" isExposed="False">
-        <Filter entryType="Class" fullName="Sandbox.Game.Entities.MyEntityExtensions" filterName="MyEntityExtensions" isExposed="True" />
-        <Filter entryType="Class" fullName="Sandbox.Game.Entities.MyEntityStat" filterName="MyEntityStat" isExposed="True" />
-        <Filter entryType="Delegate" fullName="Sandbox.Game.Entities.MyEntityStat.StatChangedDelegate" filterName="MyEntityStat.StatChangedDelegate" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Blocks" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Character" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Character.Components" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Cube" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Debris" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.EnvironmentItems" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Interfaces" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Inventory" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Planet" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Entities.UseObject" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.EntityComponents" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.EntityComponents.Systems" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.Conveyors" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.CoordinateSystem" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.Electricity" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.StructuralIntegrity" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Gui" isExposed="False">
-        <Filter entryType="Class" fullName="Sandbox.Game.Gui.TerminalActionExtensions" filterName="TerminalActionExtensions" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GUI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GUI.DebugInputComponents" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GUI.DebugInputComponents.HonzaDebugInputComponent" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.GUI.HudViewers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Lights" isExposed="False">
-        <Filter entryType="Class" fullName="Sandbox.Game.Lights.MyLight" filterName="MyLight" isExposed="True" />
-        <Filter entryType="Enumeration" fullName="Sandbox.Game.Lights.MyLight.LightOwnerEnum" filterName="MyLight.LightOwnerEnum" isExposed="False" />
-        <Filter entryType="Enumeration" fullName="Sandbox.Game.Lights.MyLight.LightTypeEnum" filterName="MyLight.LightTypeEnum" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Localization" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Multiplayer" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Replication" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Screens" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Screens.DebugScreens" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Helpers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Terminal.Controls" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Triggers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.SessionComponents" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Utils" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.VoiceChat" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Weapons" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.Weapons.Guns" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.World" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.World.Generator" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Game.World.Triggers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Graphics" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Graphics.GUI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Graphics.Render" isExposed="False" />
-      <Filter entryType="Namespace" fullName="Sandbox.Gui" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.Game" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.Game.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.Game.GUI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.Game.VoiceChat" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.Game.World" isExposed="False" />
-      <Filter entryType="Namespace" fullName="SpaceEngineers.ObjectBuilders" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Collections.Generic" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.IO" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Linq" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Linq.Expressions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Net" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Reflection" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Runtime.CompilerServices" isExposed="False" />
-      <Filter entryType="Namespace" fullName="System.Text" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Algorithms" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Animations" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Audio" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.BitCompression" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Collections" isExposed="False">
-        <Filter entryType="Structure" fullName="VRage.Collections.ListReader`1" filterName="ListReader`1" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Common.Utils" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Compiler" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Compression" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Cryptography" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Data" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Data.Audio" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Extensions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.FileSystem" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Filesystem.FindFilesRegEx" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Game.EnvironmentItemsEntry" filterName="EnvironmentItemsEntry" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyCharacterMovement" filterName="MyCharacterMovement" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyDefinitionBase" filterName="MyDefinitionBase" isExposed="True" />
-        <Filter entryType="Structure" fullName="VRage.Game.MyDefinitionId" filterName="MyDefinitionId" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyDefinitionId.DefinitionIdComparerType" filterName="MyDefinitionId.DefinitionIdComparerType" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Game.MyDefinitionManagerBase" filterName="MyDefinitionManagerBase" isExposed="True" />
-        <Filter entryType="Structure" fullName="VRage.Game.MyFactionMember" filterName="MyFactionMember" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyFactionMember.FactionComparerType" filterName="MyFactionMember.FactionComparerType" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Game.MyFinalBuildConstants" filterName="MyFinalBuildConstants" isExposed="True" />
-        <Filter entryType="Enumeration" fullName="VRage.Game.MyFontEnum" filterName="MyFontEnum" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyObjectBuilder_SessionSettings" filterName="MyObjectBuilder_SessionSettings" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.MyObjectBuilder_VoxelMap" filterName="MyObjectBuilder_VoxelMap" isExposed="True" />
-        <Filter entryType="Structure" fullName="VRage.Game.SerializableBlockOrientation" filterName="SerializableBlockOrientation" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Game.Common" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Components" isExposed="False">
-        <Filter entryType="Interface" fullName="VRage.Game.Components.IMyComponentBase" filterName="IMyComponentBase" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.Components.MyComponentContainer" filterName="MyComponentContainer" isExposed="False">
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.Get" filterName="Get" isExposed="True" />
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.Has" filterName="Has" isExposed="True" />
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.TryGet" filterName="TryGet" isExposed="True" />
-        </Filter>
-        <Filter entryType="Class" fullName="VRage.Game.Components.MyGameLogicComponent" filterName="MyGameLogicComponent" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.Components.MyIngameScript" filterName="MyIngameScript" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.Components.MyResourceSinkComponentBase" filterName="MyResourceSinkComponentBase" isExposed="True">
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetInputFromDistributor" filterName="SetInputFromDistributor" isExposed="False" />
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetMaxRequiredInputByType" filterName="SetMaxRequiredInputByType" isExposed="False" />
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetRequiredInputByType" filterName="SetRequiredInputByType" isExposed="False" />
-          <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetRequiredInputFuncByType" filterName="SetRequiredInputFuncByType" isExposed="False" />
-          <Filter entryType="Property" fullName="VRage.Game.Components.MyResourceSinkComponentBase.TemporaryConnectedEntity" filterName="TemporaryConnectedEntity" isExposed="False" />
-        </Filter>
-        <Filter entryType="Class" fullName="VRage.Game.Components.MyResourceSourceComponentBase" filterName="MyResourceSourceComponentBase" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.Game.Components.MySessionComponentBase" filterName="MySessionComponentBase" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Game.Components.Interfaces" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Definitions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Definitions.Animation" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Entity" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Game.Entity.MyEntity" filterName="MyEntity" isExposed="True" />
-        <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.CreateDefaultSyncEntityDelegate" filterName="MyEntity.CreateDefaultSyncEntityDelegate" isExposed="False" />
-        <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.MyEntityFactoryCreateObjectBuilderDelegate" filterName="MyEntity.MyEntityFactoryCreateObjectBuilderDelegate" isExposed="False" />
-        <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.MyWeldingGroupsGroupExistsDelegate" filterName="MyEntity.MyWeldingGroupsGroupExistsDelegate" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Game.Entity.UseObject" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Extensions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Gui" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Models" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.News" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Game.ObjectBuilders.MyObjectBuilder_EntityStatRegenEffect" filterName="MyObjectBuilder_EntityStatRegenEffect" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI.Bot" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI.Events" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Components" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.ComponentSystem" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Definitions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Gui" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Systems" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Game.Utils" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Generics" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Generics.StateMachine" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Groups" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Import" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Input" isExposed="True">
-        <Filter entryType="Interface" fullName="VRage.Input.IMyControlNameLookup" filterName="IMyControlNameLookup" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Input.MyControl" filterName="MyControl" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Input.MyGuiDescriptor" filterName="MyGuiDescriptor" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Input.MyGuiGameControlsHelpers" filterName="MyGuiGameControlsHelpers" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Input.MyInput" filterName="MyInput" isExposed="False" />
-        <Filter entryType="Class" fullName="VRage.Input.MyNullInput" filterName="MyNullInput" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Library.Algorithms" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Library.Collections" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Library.Reflection" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Library.Sync" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Library.Utils" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Library.Utils.MyGameTimer" filterName="MyGameTimer" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.ModAPI" isExposed="True">
-        <Filter entryType="Interface" fullName="VRage.ModAPI.IMyEntity" filterName="IMyEntity" isExposed="False">
-          <Filter entryType="Method" fullName="VRage.ModAPI.IMyEntity.GetPosition" filterName="GetPosition" isExposed="True" />
-          <Filter entryType="Property" fullName="VRage.ModAPI.IMyEntity.Components" filterName="Components" isExposed="True" />
-          <Filter entryType="Property" fullName="VRage.ModAPI.IMyEntity.WorldMatrix" filterName="WorldMatrix" isExposed="True" />
-        </Filter>
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Native" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Network" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Noise" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Noise.Combiners" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Noise.Modifiers" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Noise.Patterns" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.ObjectBuilders" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.ObjectBuilders.MyObjectBuilder_Base" filterName="MyObjectBuilder_Base" isExposed="True" />
-        <Filter entryType="Class" fullName="VRage.ObjectBuilders.MyObjectBuilderSerializer" filterName="MyObjectBuilderSerializer" isExposed="False">
-          <Filter entryType="Method" fullName="VRage.ObjectBuilders.MyObjectBuilderSerializer.CreateNewObject" filterName="CreateNewObject" isExposed="True" />
-        </Filter>
-        <Filter entryType="Structure" fullName="VRage.ObjectBuilders.SerializableDefinitionId" filterName="SerializableDefinitionId" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.ObjectBuilders.Definitions" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Parallelization" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Plugins" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Profiler" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Reflection" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Render.Models" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Replication" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Security" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Serialization" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Service" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Stats" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Trace" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRage.Utils" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Utils.MyEventArgs" filterName="MyEventArgs" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Voxels" isExposed="False">
-        <Filter entryType="Class" fullName="VRage.Voxels.MyStorageData" filterName="MyStorageData" isExposed="True" />
-        <Filter entryType="Structure" fullName="VRage.Voxels.MyStorageData.MortonEnumerator" filterName="MyStorageData.MortonEnumerator" isExposed="False" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRage.Win32" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageMath" isExposed="False">
-        <Filter entryType="Structure" fullName="VRageMath.Vector3" filterName="Vector3" isExposed="True" />
-      </Filter>
-      <Filter entryType="Namespace" fullName="VRageMath.PackedVector" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageMath.Spatial" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Effects" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Graphics" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Lights" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Messages" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Profiler" isExposed="False" />
-      <Filter entryType="Namespace" fullName="VRageRender.Textures" isExposed="False" />
-    </ApiFilter>
+<Filter entryType="Namespace" fullName="BulletXNA" isExposed="False" />
+<Filter entryType="Namespace" fullName="BulletXNA.BulletCollision" isExposed="False" />
+<Filter entryType="Namespace" fullName="BulletXNA.LinearMath" isExposed="False" />
+<Filter entryType="Namespace" fullName="DShowNET" isExposed="False" />
+<Filter entryType="Namespace" fullName="Entities.Blocks" isExposed="False" />
+<Filter entryType="Namespace" fullName="Havok" isExposed="False" />
+<Filter entryType="Namespace" fullName="KeenSoftwareHouse.Library.Extensions" isExposed="False" />
+<Filter entryType="Namespace" fullName="KeenSoftwareHouse.Library.IO" isExposed="False" />
+<Filter entryType="Namespace" fullName="LitJson" isExposed="False" />
+<Filter entryType="Namespace" fullName="Medieval.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="Medieval.Definitions" isExposed="False" />
+<Filter entryType="Namespace" fullName="Medieval.ObjectBuilders" isExposed="False" />
+<Filter entryType="Namespace" fullName="Medieval.ObjectBuilders.Definitions" isExposed="False" />
+<Filter entryType="Namespace" fullName="ParallelTasks" isExposed="False">
+  <Filter entryType="Interface" fullName="ParallelTasks.IWork" filterName="IWork" isExposed="True" />
+  <Filter entryType="Structure" fullName="ParallelTasks.Task" filterName="Task" isExposed="True" />
+  <Filter entryType="Structure" fullName="ParallelTasks.WorkOptions" filterName="WorkOptions" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="ProtoBuf" isExposed="False" />
+<Filter entryType="Namespace" fullName="ProtoBuf.Meta" isExposed="False" />
+<Filter entryType="Namespace" fullName="ProtoBuf.ServiceModel" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.AppCode" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Common" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Definitions" isExposed="False">
+  <Filter entryType="Class" fullName="Sandbox.Definitions.MyDefinitionManager" filterName="MyDefinitionManager" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="Sandbox.Engine.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Multiplayer" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Networking" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Physics" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Platform" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Platform.VideoMode" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Utils" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Voxels" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Engine.Voxels.Planet" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game" isExposed="False">
+  <Filter entryType="Class" fullName="Sandbox.Game.MyStatLogic" filterName="MyStatLogic" isExposed="True" />
+  <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatAction" filterName="MyStatLogic.MyStatAction" isExposed="False" />
+  <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatEfficiencyModifier" filterName="MyStatLogic.MyStatEfficiencyModifier" isExposed="False" />
+  <Filter entryType="Structure" fullName="Sandbox.Game.MyStatLogic.MyStatRegenModifier" filterName="MyStatLogic.MyStatRegenModifier" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.Actions" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.BehaviorTree" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.Commands" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.Logic" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.Navigation" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.AI.Pathfinding" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Components" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities" isExposed="False">
+  <Filter entryType="Class" fullName="Sandbox.Game.Entities.MyEntityExtensions" filterName="MyEntityExtensions" isExposed="True" />
+  <Filter entryType="Class" fullName="Sandbox.Game.Entities.MyEntityStat" filterName="MyEntityStat" isExposed="True" />
+  <Filter entryType="Delegate" fullName="Sandbox.Game.Entities.MyEntityStat.StatChangedDelegate" filterName="MyEntityStat.StatChangedDelegate" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Blocks" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Character" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Character.Components" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Cube" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Debris" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.EnvironmentItems" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Interfaces" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Inventory" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.Planet" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Entities.UseObject" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.EntityComponents" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.EntityComponents.Systems" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.Conveyors" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.CoordinateSystem" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.Electricity" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GameSystems.StructuralIntegrity" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Gui" isExposed="False">
+  <Filter entryType="Class" fullName="Sandbox.Game.Gui.TerminalActionExtensions" filterName="TerminalActionExtensions" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="Sandbox.Game.GUI" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GUI.DebugInputComponents" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GUI.DebugInputComponents.HonzaDebugInputComponent" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.GUI.HudViewers" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Lights" isExposed="False">
+  <Filter entryType="Class" fullName="Sandbox.Game.Lights.MyLight" filterName="MyLight" isExposed="True" />
+  <Filter entryType="Enumeration" fullName="Sandbox.Game.Lights.MyLight.LightOwnerEnum" filterName="MyLight.LightOwnerEnum" isExposed="False" />
+  <Filter entryType="Enumeration" fullName="Sandbox.Game.Lights.MyLight.LightTypeEnum" filterName="MyLight.LightTypeEnum" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="Sandbox.Game.Localization" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Multiplayer" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Replication" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Screens" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Screens.DebugScreens" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Helpers" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Terminal.Controls" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Screens.Triggers" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.SessionComponents" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Utils" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.VoiceChat" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Weapons" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.Weapons.Guns" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.World" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.World.Generator" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Game.World.Triggers" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Graphics" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Graphics.GUI" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Graphics.Render" isExposed="False" />
+<Filter entryType="Namespace" fullName="Sandbox.Gui" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.GUI" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.VoiceChat" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.World" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.ObjectBuilders" isExposed="False" />
+<Filter entryType="Namespace" fullName="System" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Collections.Generic" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.IO" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Linq" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Linq.Expressions" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Net" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Reflection" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Runtime.CompilerServices" isExposed="False" />
+<Filter entryType="Namespace" fullName="System.Text" isExposed="False" />
+<Filter entryType="Namespace" fullName="Unsharper" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Algorithms" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Animations" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Audio" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.BitCompression" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Collections" isExposed="False">
+  <Filter entryType="Structure" fullName="VRage.Collections.ListReader`1" filterName="ListReader`1" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Common.Utils" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Compiler" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Compression" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Cryptography" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Data" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Data.Audio" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Extensions" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.FileSystem" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Filesystem.FindFilesRegEx" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Game.EnvironmentItemsEntry" filterName="EnvironmentItemsEntry" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyCharacterMovement" filterName="MyCharacterMovement" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyDefinitionBase" filterName="MyDefinitionBase" isExposed="True" />
+  <Filter entryType="Structure" fullName="VRage.Game.MyDefinitionId" filterName="MyDefinitionId" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyDefinitionId.DefinitionIdComparerType" filterName="MyDefinitionId.DefinitionIdComparerType" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Game.MyDefinitionManagerBase" filterName="MyDefinitionManagerBase" isExposed="True" />
+  <Filter entryType="Structure" fullName="VRage.Game.MyFactionMember" filterName="MyFactionMember" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyFactionMember.FactionComparerType" filterName="MyFactionMember.FactionComparerType" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Game.MyFinalBuildConstants" filterName="MyFinalBuildConstants" isExposed="True" />
+  <Filter entryType="Enumeration" fullName="VRage.Game.MyFontEnum" filterName="MyFontEnum" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyObjectBuilder_SessionSettings" filterName="MyObjectBuilder_SessionSettings" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.MyObjectBuilder_VoxelMap" filterName="MyObjectBuilder_VoxelMap" isExposed="True" />
+  <Filter entryType="Structure" fullName="VRage.Game.SerializableBlockOrientation" filterName="SerializableBlockOrientation" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Game.Common" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Components" isExposed="False">
+  <Filter entryType="Interface" fullName="VRage.Game.Components.IMyComponentBase" filterName="IMyComponentBase" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.Components.MyComponentContainer" filterName="MyComponentContainer" isExposed="False">
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.Get" filterName="Get" isExposed="True" />
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.Has" filterName="Has" isExposed="True" />
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyComponentContainer.TryGet" filterName="TryGet" isExposed="True" />
+  </Filter>
+  <Filter entryType="Class" fullName="VRage.Game.Components.MyGameLogicComponent" filterName="MyGameLogicComponent" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.Components.MyIngameScript" filterName="MyIngameScript" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.Components.MyResourceSinkComponentBase" filterName="MyResourceSinkComponentBase" isExposed="True">
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetInputFromDistributor" filterName="SetInputFromDistributor" isExposed="False" />
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetMaxRequiredInputByType" filterName="SetMaxRequiredInputByType" isExposed="False" />
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetRequiredInputByType" filterName="SetRequiredInputByType" isExposed="False" />
+    <Filter entryType="Method" fullName="VRage.Game.Components.MyResourceSinkComponentBase.SetRequiredInputFuncByType" filterName="SetRequiredInputFuncByType" isExposed="False" />
+    <Filter entryType="Property" fullName="VRage.Game.Components.MyResourceSinkComponentBase.TemporaryConnectedEntity" filterName="TemporaryConnectedEntity" isExposed="False" />
+  </Filter>
+  <Filter entryType="Class" fullName="VRage.Game.Components.MyResourceSourceComponentBase" filterName="MyResourceSourceComponentBase" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.Game.Components.MySessionComponentBase" filterName="MySessionComponentBase" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Game.Components.Interfaces" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Definitions" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Definitions.Animation" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Entity" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Game.Entity.MyEntity" filterName="MyEntity" isExposed="True" />
+  <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.CreateDefaultSyncEntityDelegate" filterName="MyEntity.CreateDefaultSyncEntityDelegate" isExposed="False" />
+  <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.MyEntityFactoryCreateObjectBuilderDelegate" filterName="MyEntity.MyEntityFactoryCreateObjectBuilderDelegate" isExposed="False" />
+  <Filter entryType="Delegate" fullName="VRage.Game.Entity.MyEntity.MyWeldingGroupsGroupExistsDelegate" filterName="MyEntity.MyWeldingGroupsGroupExistsDelegate" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Game.Entity.UseObject" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Extensions" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Gui" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Models" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.News" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Game.ObjectBuilders.MyObjectBuilder_EntityStatRegenEffect" filterName="MyObjectBuilder_EntityStatRegenEffect" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI.Bot" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.AI.Events" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Components" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.ComponentSystem" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Definitions" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.ObjectBuilders.Gui" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Systems" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Game.Utils" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Generics" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Generics.StateMachine" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Groups" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Import" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Input" isExposed="True">
+  <Filter entryType="Interface" fullName="VRage.Input.IMyControlNameLookup" filterName="IMyControlNameLookup" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Input.MyControl" filterName="MyControl" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Input.MyGuiDescriptor" filterName="MyGuiDescriptor" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Input.MyGuiGameControlsHelpers" filterName="MyGuiGameControlsHelpers" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Input.MyInput" filterName="MyInput" isExposed="False" />
+  <Filter entryType="Class" fullName="VRage.Input.MyNullInput" filterName="MyNullInput" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Library.Algorithms" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Library.Collections" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Library.Reflection" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Library.Sync" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Library.Utils" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Library.Utils.MyGameTimer" filterName="MyGameTimer" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Native" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Network" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Noise" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Noise.Combiners" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Noise.Modifiers" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Noise.Patterns" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.ObjectBuilders" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.ObjectBuilders.MyObjectBuilder_Base" filterName="MyObjectBuilder_Base" isExposed="True" />
+  <Filter entryType="Class" fullName="VRage.ObjectBuilders.MyObjectBuilderSerializer" filterName="MyObjectBuilderSerializer" isExposed="False">
+    <Filter entryType="Method" fullName="VRage.ObjectBuilders.MyObjectBuilderSerializer.CreateNewObject" filterName="CreateNewObject" isExposed="True" />
+  </Filter>
+  <Filter entryType="Structure" fullName="VRage.ObjectBuilders.SerializableDefinitionId" filterName="SerializableDefinitionId" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.ObjectBuilders.Definitions" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Parallelization" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Plugins" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Profiler" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Reflection" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Render.Models" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Replication" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Security" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Serialization" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Service" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Stats" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Trace" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRage.Utils" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Utils.MyEventArgs" filterName="MyEventArgs" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Voxels" isExposed="False">
+  <Filter entryType="Class" fullName="VRage.Voxels.MyStorageData" filterName="MyStorageData" isExposed="True" />
+  <Filter entryType="Structure" fullName="VRage.Voxels.MyStorageData.MortonEnumerator" filterName="MyStorageData.MortonEnumerator" isExposed="False" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRage.Win32" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageMath" isExposed="False">
+  <Filter entryType="Structure" fullName="VRageMath.Vector3" filterName="Vector3" isExposed="True" />
+</Filter>
+<Filter entryType="Namespace" fullName="VRageMath.PackedVector" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageMath.Spatial" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Effects" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Graphics" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Lights" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Messages" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Profiler" isExposed="False" />
+<Filter entryType="Namespace" fullName="VRageRender.Textures" isExposed="False" /></ApiFilter>
     <WorkingPath>
     </WorkingPath>
     <FooterText>Updated: {%40BuildDate}</FooterText>
