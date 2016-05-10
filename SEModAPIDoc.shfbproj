@@ -171,6 +171,9 @@
 <Filter entryType="Namespace" fullName="SpaceEngineers.AI" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.AI" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.Entities.Blocks" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.Entities.Cube" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.EntityComponents.DebugRenders" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.GUI" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.VoiceChat" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.World" isExposed="False" />
