@@ -172,8 +172,8 @@
   <HelpKINode Title="Attach method">
     <HelpKINode Title="IMyMotorBase.Attach Method " Url="html/CA75000F.htm" />
     <HelpKINode Title="IMyMotorBase.Attach Method " Url="html/4A130894.htm" />
-    <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1D355B46.htm" />
     <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1FFA2B1C.htm" />
+    <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1D355B46.htm" />
   </HelpKINode>
   <HelpKINode Title="AttachedEntityChanged event">
     <HelpKINode Title="IMyMotorBase.AttachedEntityChanged Event" Url="html/86B03462.htm" />
@@ -380,8 +380,8 @@
     <HelpKINode Title="IMySlimBlock.BuildIntegrity Property " Url="html/4C617055.htm" />
   </HelpKINode>
   <HelpKINode Title="BuildLevelRatio property">
-    <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A27B49EE.htm" />
     <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A451DC1A.htm" />
+    <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A27B49EE.htm" />
   </HelpKINode>
   <HelpKINode Title="BuildToolbar field" Url="html/25D758D5.htm" />
   <HelpKINode Title="Burst property">
@@ -497,8 +497,8 @@
   <HelpKINode Title="ChatPadOrange enumeration member" Url="html/186943FE.htm" />
   <HelpKINode Title="CheckCapacity method" Url="html/D57D160D.htm" />
   <HelpKINode Title="CheckConnectionAllowed property">
-    <HelpKINode Title="IMyCubeBlock.CheckConnectionAllowed Property " Url="html/3393631D.htm" />
     <HelpKINode Title="IMyCubeBlock.CheckConnectionAllowed Property " Url="html/822C2906.htm" />
+    <HelpKINode Title="IMyCubeBlock.CheckConnectionAllowed Property " Url="html/3393631D.htm" />
   </HelpKINode>
   <HelpKINode Title="ChineseChina enumeration member" Url="html/2E8CD894.htm" />
   <HelpKINode Title="Clamp method" Url="html/7C73D18F.htm" />
@@ -717,8 +717,8 @@
   <HelpKINode Title="CubeBuilderBuildingMode property" Url="html/88C2DDE4.htm" />
   <HelpKINode Title="CubeBuilderUseSymmetry property" Url="html/752F3693.htm" />
   <HelpKINode Title="CubeExists method">
-    <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/31A4A884.htm" />
     <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/5408E3CE.htm" />
+    <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/31A4A884.htm" />
   </HelpKINode>
   <HelpKINode Title="CubeGrid property">
     <HelpKINode Title="IMyCubeBlock.CubeGrid Property " Url="html/1B6F4936.htm" />
@@ -858,8 +858,8 @@
   <HelpKINode Title="DefinedOutputByType method" Url="html/9DFDC7AD.htm" />
   <HelpKINode Title="Definition property" Url="html/B11EFFB.htm" />
   <HelpKINode Title="DefinitionDisplayNameText property">
-    <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/412C4DF6.htm" />
     <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/6867561F.htm" />
+    <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/412C4DF6.htm" />
   </HelpKINode>
   <HelpKINode Title="DefinitionId field" Url="html/C60968C0.htm" />
   <HelpKINode Title="DefinitionIds field" Url="html/D9521824.htm" />
@@ -873,8 +873,8 @@
   <HelpKINode Title="DeleteFileInGlobalStorage method" Url="html/7DABA3E0.htm" />
   <HelpKINode Title="DeleteFileInLocalStorage method" Url="html/40CBB06F.htm" />
   <HelpKINode Title="DeltaMouseScrollWheelValue method">
-    <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/95E709E9.htm" />
     <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/3AE0A50E.htm" />
+    <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/95E709E9.htm" />
   </HelpKINode>
   <HelpKINode Title="DemoComponent class">
     <HelpKINode Title="DemoComponent Class" Url="html/5463A56E.htm" />
@@ -961,8 +961,8 @@
   <HelpKINode Title="DisassembleEnabled field" Url="html/4DD37445.htm" />
   <HelpKINode Title="DisassembleEnabled property" Url="html/9C86D3D9.htm" />
   <HelpKINode Title="DisassembleRatio property">
-    <HelpKINode Title="IMyCubeBlock.DisassembleRatio Property " Url="html/1286BABA.htm" />
     <HelpKINode Title="IMyCubeBlock.DisassembleRatio Property " Url="html/8CB6F166.htm" />
+    <HelpKINode Title="IMyCubeBlock.DisassembleRatio Property " Url="html/1286BABA.htm" />
   </HelpKINode>
   <HelpKINode Title="DiscardAt property" Url="html/5E161171.htm" />
   <HelpKINode Title="Displacement property" Url="html/46E210AF.htm" />
@@ -975,8 +975,8 @@
   <HelpKINode Title="DisplayNameEnum field" Url="html/3E6F8B79.htm" />
   <HelpKINode Title="DisplayNameString field" Url="html/87F3BC6C.htm" />
   <HelpKINode Title="DisplayNameText property">
-    <HelpKINode Title="IMyCubeBlock.DisplayNameText Property " Url="html/682A8F8B.htm" />
     <HelpKINode Title="IMyCubeBlock.DisplayNameText Property " Url="html/95B52E21.htm" />
+    <HelpKINode Title="IMyCubeBlock.DisplayNameText Property " Url="html/682A8F8B.htm" />
     <HelpKINode Title="MyDefinitionBase.DisplayNameText Property " Url="html/EC5417A1.htm" />
     <HelpKINode Title="MyEntity.DisplayNameText Property " Url="html/31EF6BA7.htm" />
   </HelpKINode>
@@ -1182,8 +1182,8 @@
   <HelpKINode Title="EnumComparer&lt;TEnum&gt;.GetHashCode method" Url="html/959FDB81.htm" />
   <HelpKINode Title="EnumComparer&lt;TEnum&gt;.Instance property" Url="html/1F4666AD.htm" />
   <HelpKINode Title="EnumerateJoystickNames method">
-    <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/E3939DDD.htm" />
     <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/183A2057.htm" />
+    <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/E3939DDD.htm" />
   </HelpKINode>
   <HelpKINode Title="EnvironmentDefinition property" Url="html/3306446E.htm" />
   <HelpKINode Title="EnvironmentHostility field" Url="html/650B29D0.htm" />
@@ -1604,8 +1604,8 @@
   <HelpKINode Title="GetControlTypeEnum method" Url="html/6FC970FC.htm" />
   <HelpKINode Title="GetCopyObjectBuilder method" Url="html/9B93B046.htm" />
   <HelpKINode Title="GetCubeBlock method">
-    <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/C34BE85F.htm" />
     <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/9FED41B0.htm" />
+    <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/C34BE85F.htm" />
   </HelpKINode>
   <HelpKINode Title="GetCubeBlockDefinition method" Url="html/2A4CF25B.htm" />
   <HelpKINode Title="GetCubeBlockDefinitionForMultiBlock method" Url="html/653D9082.htm" />
@@ -1679,8 +1679,8 @@
     <HelpKINode Title="MyEntity.GetFriendlyName Method " Url="html/CD5F2FF3.htm" />
   </HelpKINode>
   <HelpKINode Title="GetGameControl method">
-    <HelpKINode Title="IMyInput.GetGameControl Method " Url="html/28740CB4.htm" />
     <HelpKINode Title="IMyInput.GetGameControl Method " Url="html/A2278777.htm" />
+    <HelpKINode Title="IMyInput.GetGameControl Method " Url="html/28740CB4.htm" />
   </HelpKINode>
   <HelpKINode Title="GetGameControlAnalogState method">
     <HelpKINode Title="IMyInput.GetGameControlAnalogState Method " Url="html/A5CF9027.htm" />
@@ -1747,8 +1747,8 @@
   <HelpKINode Title="GetItemByID method" Url="html/64CD1A25.htm" />
   <HelpKINode Title="GetItems method" Url="html/1ABC5705.htm" />
   <HelpKINode Title="GetJoystickAxisStateForGameplay method">
-    <HelpKINode Title="IMyInput.GetJoystickAxisStateForGameplay Method " Url="html/63F4B19E.htm" />
     <HelpKINode Title="IMyInput.GetJoystickAxisStateForGameplay Method " Url="html/883142A0.htm" />
+    <HelpKINode Title="IMyInput.GetJoystickAxisStateForGameplay Method " Url="html/63F4B19E.htm" />
   </HelpKINode>
   <HelpKINode Title="GetJoystickDeadzone method" Url="html/3A91A632.htm" />
   <HelpKINode Title="GetJoystickExponent method" Url="html/D955864E.htm" />
@@ -1767,12 +1767,12 @@
   <HelpKINode Title="GetLineIntersectionExactAll method" Url="html/EB95B6B7.htm" />
   <HelpKINode Title="GetLineIntersectionExactGrid method" Url="html/46FE148A.htm" />
   <HelpKINode Title="GetListOfPressedKeys method">
-    <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/C44F712F.htm" />
     <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/A9347638.htm" />
+    <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/C44F712F.htm" />
   </HelpKINode>
   <HelpKINode Title="GetListOfPressedMouseButtons method">
-    <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/B6E078F7.htm" />
     <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/C763748C.htm" />
+    <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/B6E078F7.htm" />
   </HelpKINode>
   <HelpKINode Title="GetLoadingSet method">
     <HelpKINode Title="MyDefinitionManager.GetLoadingSet Method " Url="html/4EDE2435.htm" />
@@ -1823,24 +1823,24 @@
     <HelpKINode Title="IMyInput.GetMouseX Method " Url="html/73C83561.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMouseXForGamePlay method">
-    <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/7D22B562.htm" />
     <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/CC9844D7.htm" />
+    <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/7D22B562.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMouseXInversion method">
     <HelpKINode Title="IMyInput.GetMouseXInversion Method " Url="html/263F4562.htm" />
     <HelpKINode Title="IMyInput.GetMouseXInversion Method " Url="html/5AC26FDC.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMouseY method">
-    <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/5DB159D5.htm" />
     <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/E8633561.htm" />
+    <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/5DB159D5.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMouseYForGamePlay method">
-    <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/9893A2A8.htm" />
     <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/7D22C1E3.htm" />
+    <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/9893A2A8.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMouseYInversion method">
-    <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/EF1D6FDC.htm" />
     <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/263F4921.htm" />
+    <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/EF1D6FDC.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMultiBlockDefinition method" Url="html/5D96E5F8.htm" />
   <HelpKINode Title="GetMultiBlockDefinitions method" Url="html/5D83E5F8.htm" />
@@ -1910,8 +1910,8 @@
   <HelpKINode Title="GetPrefabDefinitions method" Url="html/417BFE92.htm" />
   <HelpKINode Title="GetPrefabThrowerDefinitions method" Url="html/9236072A.htm" />
   <HelpKINode Title="GetPressedKeys method">
-    <HelpKINode Title="IMyInput.GetPressedKeys Method " Url="html/6D64F4DE.htm" />
     <HelpKINode Title="IMyInput.GetPressedKeys Method " Url="html/BE22F298.htm" />
+    <HelpKINode Title="IMyInput.GetPressedKeys Method " Url="html/6D64F4DE.htm" />
   </HelpKINode>
   <HelpKINode Title="GetPrivateText method" Url="html/82FA5C55.htm" />
   <HelpKINode Title="GetPrivateTitle method" Url="html/382BB779.htm" />
@@ -1984,15 +1984,15 @@
   </HelpKINode>
   <HelpKINode Title="GetTypeName method" Url="html/8B7AB9E4.htm" />
   <HelpKINode Title="GetUnassignedName method">
-    <HelpKINode Title="IMyInput.GetUnassignedName Method " Url="html/4F7F9F3B.htm" />
     <HelpKINode Title="IMyInput.GetUnassignedName Method " Url="html/74E44A68.htm" />
+    <HelpKINode Title="IMyInput.GetUnassignedName Method " Url="html/4F7F9F3B.htm" />
   </HelpKINode>
   <HelpKINode Title="GetUpgradeList method" Url="html/16CA3A8A.htm" />
   <HelpKINode Title="GetUpgrades method" Url="html/62F46673.htm" />
   <HelpKINode Title="GetUseConveyorSystem method" Url="html/1C2ED38C.htm" />
   <HelpKINode Title="GetUserRelationToOwner method">
-    <HelpKINode Title="IMyCubeBlock.GetUserRelationToOwner Method " Url="html/E85B7B04.htm" />
     <HelpKINode Title="IMyCubeBlock.GetUserRelationToOwner Method " Url="html/588C988C.htm" />
+    <HelpKINode Title="IMyCubeBlock.GetUserRelationToOwner Method " Url="html/E85B7B04.htm" />
   </HelpKINode>
   <HelpKINode Title="GetValue method" Url="html/D805B87C.htm" />
   <HelpKINode Title="GetValue(Of T) method" Url="html/DE899D06.htm" />
@@ -2057,8 +2057,8 @@
   </HelpKINode>
   <HelpKINode Title="Grids property" Url="html/9A63A1.htm" />
   <HelpKINode Title="GridSize property">
-    <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FBBC811A.htm" />
     <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FF9DB258.htm" />
+    <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FBBC811A.htm" />
   </HelpKINode>
   <HelpKINode Title="GridSizeEnum property">
     <HelpKINode Title="IMyCubeGrid.GridSizeEnum Property " Url="html/D8AA72AD.htm" />
@@ -2165,9 +2165,9 @@
     <HelpKINode Title="MyDefinitionBase.Id Field" Url="html/86FA7D48.htm" />
     <HelpKINode Title="MyObjectBuilder_GasGeneratorResourceInfo.Id Field" Url="html/B12BDF69.htm" />
     <HelpKINode Title="MyObjectBuilder_OxygenFarmDefinition.MyProducedGasInfo.Id Field" Url="html/AA14DA30.htm" />
+    <HelpKINode Title="MyTexts.LanguageDescription.Id Field" Url="html/8031EC06.htm" />
     <HelpKINode Title="MyObjectBuilder_ProductionBlock.QueueItem.Id Field" Url="html/21854325.htm" />
     <HelpKINode Title="SyncBase.Id Field" Url="html/439DFE8E.htm" />
-    <HelpKINode Title="MyTexts.LanguageDescription.Id Field" Url="html/8031EC06.htm" />
   </HelpKINode>
   <HelpKINode Title="ID field" Url="html/BCBDFAC.htm" />
   <HelpKINode Title="Id property">
@@ -2265,14 +2265,14 @@
   <HelpKINode Title="IMyButtonPanel interface">
     <HelpKINode Title="IMyButtonPanel Interface" Url="html/34715412.htm" />
     <HelpKINode Title="IMyButtonPanel Interface" Url="html/FFDB5A13.htm" />
-    <HelpKINode Title="about IMyButtonPanel interface" Url="html/FFDB5A13.htm" />
     <HelpKINode Title="about IMyButtonPanel interface" Url="html/34715412.htm" />
+    <HelpKINode Title="about IMyButtonPanel interface" Url="html/FFDB5A13.htm" />
     <HelpKINode Title="events" Url="html/15798789.htm" />
     <HelpKINode Title="events" Url="html/CDDFB22F.htm" />
-    <HelpKINode Title="methods" Url="html/FD4C2763.htm" />
     <HelpKINode Title="methods" Url="html/845EE7FE.htm" />
-    <HelpKINode Title="properties" Url="html/511A5A7C.htm" />
+    <HelpKINode Title="methods" Url="html/FD4C2763.htm" />
     <HelpKINode Title="properties" Url="html/6C0364C3.htm" />
+    <HelpKINode Title="properties" Url="html/511A5A7C.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyButtonPanel.AnyoneCanUse property" Url="html/83ADAEF9.htm" />
   <HelpKINode Title="IMyButtonPanel.ButtonPressed event" Url="html/C8F0FCAC.htm" />
@@ -2529,19 +2529,19 @@
   <HelpKINode Title="IMyCubeBlock interface">
     <HelpKINode Title="IMyCubeBlock Interface" Url="html/635947EF.htm" />
     <HelpKINode Title="IMyCubeBlock Interface" Url="html/96EBBF88.htm" />
-    <HelpKINode Title="about IMyCubeBlock interface" Url="html/635947EF.htm" />
     <HelpKINode Title="about IMyCubeBlock interface" Url="html/96EBBF88.htm" />
-    <HelpKINode Title="events" Url="html/17C93A4A.htm" />
+    <HelpKINode Title="about IMyCubeBlock interface" Url="html/635947EF.htm" />
     <HelpKINode Title="events" Url="html/58A6ABD7.htm" />
-    <HelpKINode Title="methods" Url="html/6178237.htm" />
+    <HelpKINode Title="events" Url="html/17C93A4A.htm" />
     <HelpKINode Title="methods" Url="html/FAB5D0D.htm" />
+    <HelpKINode Title="methods" Url="html/6178237.htm" />
     <HelpKINode Title="properties" Url="html/CEF77CBD.htm" />
     <HelpKINode Title="properties" Url="html/600EE23A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.AddUpgradeValue method" Url="html/C44DD8D2.htm" />
   <HelpKINode Title="IMyCubeBlock.BlockDefinition property">
-    <HelpKINode Title="IMyCubeBlock.BlockDefinition Property " Url="html/3728F0EF.htm" />
     <HelpKINode Title="IMyCubeBlock.BlockDefinition Property " Url="html/62476890.htm" />
+    <HelpKINode Title="IMyCubeBlock.BlockDefinition Property " Url="html/3728F0EF.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.CalcLocalMatrix method" Url="html/22ED50F5.htm" />
   <HelpKINode Title="IMyCubeBlock.CalculateCurrentModel method" Url="html/FC83FCC4.htm" />
@@ -2555,8 +2555,8 @@
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.DebugDraw method" Url="html/1B801359.htm" />
   <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText property">
-    <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/412C4DF6.htm" />
     <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/6867561F.htm" />
+    <HelpKINode Title="IMyCubeBlock.DefinitionDisplayNameText Property " Url="html/412C4DF6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.DisassembleRatio property">
     <HelpKINode Title="IMyCubeBlock.DisassembleRatio Property " Url="html/1286BABA.htm" />
@@ -2568,12 +2568,12 @@
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.GetObjectBuilderCubeBlock method" Url="html/B3FEB83F.htm" />
   <HelpKINode Title="IMyCubeBlock.GetOwnerFactionTag method">
-    <HelpKINode Title="IMyCubeBlock.GetOwnerFactionTag Method " Url="html/48E35D2F.htm" />
     <HelpKINode Title="IMyCubeBlock.GetOwnerFactionTag Method " Url="html/AB40670B.htm" />
+    <HelpKINode Title="IMyCubeBlock.GetOwnerFactionTag Method " Url="html/48E35D2F.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.GetPlayerRelationToOwner method">
-    <HelpKINode Title="IMyCubeBlock.GetPlayerRelationToOwner Method " Url="html/4BABBD46.htm" />
     <HelpKINode Title="IMyCubeBlock.GetPlayerRelationToOwner Method " Url="html/E1BC2C03.htm" />
+    <HelpKINode Title="IMyCubeBlock.GetPlayerRelationToOwner Method " Url="html/4BABBD46.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.GetUserRelationToOwner method">
     <HelpKINode Title="IMyCubeBlock.GetUserRelationToOwner Method " Url="html/E85B7B04.htm" />
@@ -2581,8 +2581,8 @@
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.Init method" Url="html/BFF2E7C5.htm" />
   <HelpKINode Title="IMyCubeBlock.IsBeingHacked property">
-    <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/F10AA075.htm" />
     <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/467B454B.htm" />
+    <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/F10AA075.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.IsFunctional property">
     <HelpKINode Title="IMyCubeBlock.IsFunctional Property " Url="html/EEBF8858.htm" />
@@ -2602,12 +2602,12 @@
     <HelpKINode Title="IMyCubeBlock.Max Property " Url="html/174A797E.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.Min property">
-    <HelpKINode Title="IMyCubeBlock.Min Property " Url="html/AD4E8133.htm" />
     <HelpKINode Title="IMyCubeBlock.Min Property " Url="html/6288D4A6.htm" />
+    <HelpKINode Title="IMyCubeBlock.Min Property " Url="html/AD4E8133.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.NumberInGrid property">
-    <HelpKINode Title="IMyCubeBlock.NumberInGrid Property " Url="html/F9F0CA03.htm" />
     <HelpKINode Title="IMyCubeBlock.NumberInGrid Property " Url="html/619B4141.htm" />
+    <HelpKINode Title="IMyCubeBlock.NumberInGrid Property " Url="html/F9F0CA03.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.OnBuildSuccess method" Url="html/21544A0D.htm" />
   <HelpKINode Title="IMyCubeBlock.OnDestroy method" Url="html/11BADCBE.htm" />
@@ -2617,12 +2617,12 @@
   <HelpKINode Title="IMyCubeBlock.OnUnregisteredFromGridSystems method" Url="html/B32AAE8E.htm" />
   <HelpKINode Title="IMyCubeBlock.OnUpgradeValuesChanged event" Url="html/27065C9A.htm" />
   <HelpKINode Title="IMyCubeBlock.Orientation property">
-    <HelpKINode Title="IMyCubeBlock.Orientation Property " Url="html/D42E0BD8.htm" />
     <HelpKINode Title="IMyCubeBlock.Orientation Property " Url="html/76D5519C.htm" />
+    <HelpKINode Title="IMyCubeBlock.Orientation Property " Url="html/D42E0BD8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.OwnerId property">
-    <HelpKINode Title="IMyCubeBlock.OwnerId Property " Url="html/9430186D.htm" />
     <HelpKINode Title="IMyCubeBlock.OwnerId Property " Url="html/42A15B17.htm" />
+    <HelpKINode Title="IMyCubeBlock.OwnerId Property " Url="html/9430186D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.Position property">
     <HelpKINode Title="IMyCubeBlock.Position Property " Url="html/A4FE06F9.htm" />
@@ -2632,8 +2632,8 @@
   <HelpKINode Title="IMyCubeBlock.ReloadDetectors method" Url="html/80DC6D51.htm" />
   <HelpKINode Title="IMyCubeBlock.SetDamageEffect method" Url="html/B9199E73.htm" />
   <HelpKINode Title="IMyCubeBlock.UpdateIsWorking method">
-    <HelpKINode Title="IMyCubeBlock.UpdateIsWorking Method " Url="html/32F588FB.htm" />
     <HelpKINode Title="IMyCubeBlock.UpdateIsWorking Method " Url="html/27625F06.htm" />
+    <HelpKINode Title="IMyCubeBlock.UpdateIsWorking Method " Url="html/32F588FB.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeBlock.UpdateVisual method">
     <HelpKINode Title="IMyCubeBlock.UpdateVisual Method " Url="html/D2296B96.htm" />
@@ -2663,16 +2663,16 @@
   <HelpKINode Title="IMyCubeBuilder.UseSymmetry property" Url="html/5FD1ACE9.htm" />
   <HelpKINode Title="IMyCubeBuilder.UseTransparency property" Url="html/1E36A74E.htm" />
   <HelpKINode Title="IMyCubeGrid interface">
-    <HelpKINode Title="IMyCubeGrid Interface" Url="html/F4B2788B.htm" />
     <HelpKINode Title="IMyCubeGrid Interface" Url="html/685F2F72.htm" />
-    <HelpKINode Title="about IMyCubeGrid interface" Url="html/F4B2788B.htm" />
+    <HelpKINode Title="IMyCubeGrid Interface" Url="html/F4B2788B.htm" />
     <HelpKINode Title="about IMyCubeGrid interface" Url="html/685F2F72.htm" />
+    <HelpKINode Title="about IMyCubeGrid interface" Url="html/F4B2788B.htm" />
     <HelpKINode Title="events" Url="html/B2DB120D.htm" />
     <HelpKINode Title="events" Url="html/E1700FCE.htm" />
     <HelpKINode Title="methods" Url="html/CFD05D5D.htm" />
     <HelpKINode Title="methods" Url="html/66DA3B2A.htm" />
-    <HelpKINode Title="properties" Url="html/8E43CB6D.htm" />
     <HelpKINode Title="properties" Url="html/EC7793A9.htm" />
+    <HelpKINode Title="properties" Url="html/8E43CB6D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeGrid.AddBlock method" Url="html/24A2796D.htm" />
   <HelpKINode Title="IMyCubeGrid.ApplyDestructionDeformation method" Url="html/26F6C4E3.htm" />
@@ -2684,16 +2684,16 @@
   <HelpKINode Title="IMyCubeGrid.ColorBlocks method" Url="html/9E4E3622.htm" />
   <HelpKINode Title="IMyCubeGrid.ConvertToDynamic method" Url="html/33F1F092.htm" />
   <HelpKINode Title="IMyCubeGrid.CubeExists method">
-    <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/5408E3CE.htm" />
     <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/31A4A884.htm" />
+    <HelpKINode Title="IMyCubeGrid.CubeExists Method " Url="html/5408E3CE.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeGrid.FixTargetCube method" Url="html/D19DF863.htm" />
   <HelpKINode Title="IMyCubeGrid.GetBlocks method" Url="html/8CBDD49C.htm" />
   <HelpKINode Title="IMyCubeGrid.GetBlocksInsideSphere method" Url="html/7308ED1A.htm" />
   <HelpKINode Title="IMyCubeGrid.GetClosestCorner method" Url="html/1B74B701.htm" />
   <HelpKINode Title="IMyCubeGrid.GetCubeBlock method">
-    <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/9FED41B0.htm" />
     <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/C34BE85F.htm" />
+    <HelpKINode Title="IMyCubeGrid.GetCubeBlock Method " Url="html/9FED41B0.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeGrid.GetLineIntersectionExactAll method" Url="html/EB95B6B7.htm" />
   <HelpKINode Title="IMyCubeGrid.GetLineIntersectionExactGrid method" Url="html/46FE148A.htm" />
@@ -2702,8 +2702,8 @@
     <HelpKINode Title="IMyCubeGrid.GridIntegerToWorld Method " Url="html/C3D90BC8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeGrid.GridSize property">
-    <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FBBC811A.htm" />
     <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FF9DB258.htm" />
+    <HelpKINode Title="IMyCubeGrid.GridSize Property " Url="html/FBBC811A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyCubeGrid.GridSizeEnum property">
     <HelpKINode Title="IMyCubeGrid.GridSizeEnum Property " Url="html/DFBBA1E6.htm" />
@@ -2738,8 +2738,8 @@
   <HelpKINode Title="IMyCubeGrid.UpdateOwnership method" Url="html/9EA76F87.htm" />
   <HelpKINode Title="IMyCubeGrid.WillRemoveBlockSplitGrid method" Url="html/23F4F0.htm" />
   <HelpKINode Title="IMyCubeGrid.WorldToGridInteger method">
-    <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/A1CF5FAD.htm" />
     <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/2054E500.htm" />
+    <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/A1CF5FAD.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyDamageSystem interface">
     <HelpKINode Title="IMyDamageSystem Interface" Url="html/F5817EE0.htm" />
@@ -2769,12 +2769,12 @@
   <HelpKINode Title="IMyDoor interface">
     <HelpKINode Title="IMyDoor Interface" Url="html/1800EC9D.htm" />
     <HelpKINode Title="IMyDoor Interface" Url="html/A0A5F92E.htm" />
-    <HelpKINode Title="about IMyDoor interface" Url="html/A0A5F92E.htm" />
     <HelpKINode Title="about IMyDoor interface" Url="html/1800EC9D.htm" />
-    <HelpKINode Title="events" Url="html/7094FAB6.htm" />
+    <HelpKINode Title="about IMyDoor interface" Url="html/A0A5F92E.htm" />
     <HelpKINode Title="events" Url="html/1BBA4CCE.htm" />
-    <HelpKINode Title="methods" Url="html/20E9740A.htm" />
+    <HelpKINode Title="events" Url="html/7094FAB6.htm" />
     <HelpKINode Title="methods" Url="html/397412B8.htm" />
+    <HelpKINode Title="methods" Url="html/20E9740A.htm" />
     <HelpKINode Title="properties" Url="html/1223FE8B.htm" />
     <HelpKINode Title="properties" Url="html/4FCB73E0.htm" />
   </HelpKINode>
@@ -3111,12 +3111,12 @@
     <HelpKINode Title="about IMyFloatingObject interface" Url="html/B7E0F2DE.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyFunctionalBlock interface">
-    <HelpKINode Title="IMyFunctionalBlock Interface" Url="html/7CB7737C.htm" />
     <HelpKINode Title="IMyFunctionalBlock Interface" Url="html/47DC052B.htm" />
+    <HelpKINode Title="IMyFunctionalBlock Interface" Url="html/7CB7737C.htm" />
     <HelpKINode Title="about IMyFunctionalBlock interface" Url="html/7CB7737C.htm" />
     <HelpKINode Title="about IMyFunctionalBlock interface" Url="html/47DC052B.htm" />
-    <HelpKINode Title="events" Url="html/D8C6E465.htm" />
     <HelpKINode Title="events" Url="html/7C428775.htm" />
+    <HelpKINode Title="events" Url="html/D8C6E465.htm" />
     <HelpKINode Title="methods" Url="html/B6703CC5.htm" />
     <HelpKINode Title="methods" Url="html/493908C.htm" />
     <HelpKINode Title="properties" Url="html/D392CE79.htm" />
@@ -3242,16 +3242,16 @@
   <HelpKINode Title="IMyGridTerminalSystem.GetBlockWithName method" Url="html/69526C89.htm" />
   <HelpKINode Title="IMyGridTerminalSystem.SearchBlocksOfName method" Url="html/5F29F814.htm" />
   <HelpKINode Title="IMyGyro interface">
-    <HelpKINode Title="IMyGyro Interface" Url="html/48C8A047.htm" />
     <HelpKINode Title="IMyGyro Interface" Url="html/8B6FF66F.htm" />
-    <HelpKINode Title="about IMyGyro interface" Url="html/48C8A047.htm" />
+    <HelpKINode Title="IMyGyro Interface" Url="html/48C8A047.htm" />
     <HelpKINode Title="about IMyGyro interface" Url="html/8B6FF66F.htm" />
+    <HelpKINode Title="about IMyGyro interface" Url="html/48C8A047.htm" />
     <HelpKINode Title="events" Url="html/55AD9D02.htm" />
     <HelpKINode Title="events" Url="html/4B439939.htm" />
     <HelpKINode Title="methods" Url="html/AE5C4851.htm" />
     <HelpKINode Title="methods" Url="html/7E783E7E.htm" />
-    <HelpKINode Title="properties" Url="html/1CA1A622.htm" />
     <HelpKINode Title="properties" Url="html/3B44FF30.htm" />
+    <HelpKINode Title="properties" Url="html/1CA1A622.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyGyro.GyroOverride property" Url="html/AAF65BFF.htm" />
   <HelpKINode Title="IMyGyro.GyroPower property" Url="html/7829C51F.htm" />
@@ -3297,26 +3297,26 @@
   <HelpKINode Title="IMyIdentity.Model property" Url="html/2C13204F.htm" />
   <HelpKINode Title="IMyIdentity.PlayerId property" Url="html/F1125D58.htm" />
   <HelpKINode Title="IMyInput interface">
-    <HelpKINode Title="IMyInput Interface" Url="html/51B5A8D8.htm" />
     <HelpKINode Title="IMyInput Interface" Url="html/A76AFAD2.htm" />
-    <HelpKINode Title="about IMyInput interface" Url="html/51B5A8D8.htm" />
+    <HelpKINode Title="IMyInput Interface" Url="html/51B5A8D8.htm" />
     <HelpKINode Title="about IMyInput interface" Url="html/A76AFAD2.htm" />
-    <HelpKINode Title="events" Url="html/DB3266D7.htm" />
+    <HelpKINode Title="about IMyInput interface" Url="html/51B5A8D8.htm" />
     <HelpKINode Title="events" Url="html/E1E908E6.htm" />
-    <HelpKINode Title="methods" Url="html/DA672FA6.htm" />
+    <HelpKINode Title="events" Url="html/DB3266D7.htm" />
     <HelpKINode Title="methods" Url="html/ABD387A3.htm" />
-    <HelpKINode Title="properties" Url="html/84FD507D.htm" />
+    <HelpKINode Title="methods" Url="html/DA672FA6.htm" />
     <HelpKINode Title="properties" Url="html/BBF8F8F.htm" />
+    <HelpKINode Title="properties" Url="html/84FD507D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.AddDefaultControl method" Url="html/473FA55C.htm" />
   <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue method">
-    <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/95E709E9.htm" />
     <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/3AE0A50E.htm" />
+    <HelpKINode Title="IMyInput.DeltaMouseScrollWheelValue Method " Url="html/95E709E9.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.ENABLE_DEVELOPER_KEYS property" Url="html/1EB84CAF.htm" />
   <HelpKINode Title="IMyInput.EnumerateJoystickNames method">
-    <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/E3939DDD.htm" />
     <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/183A2057.htm" />
+    <HelpKINode Title="IMyInput.EnumerateJoystickNames Method " Url="html/E3939DDD.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetActualJoystickState method" Url="html/701A79FA.htm" />
   <HelpKINode Title="IMyInput.GetControl method">
@@ -3344,52 +3344,52 @@
     <HelpKINode Title="IMyInput.GetKeyName Method " Url="html/65B679BA.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetListOfPressedKeys method">
-    <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/A9347638.htm" />
     <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/C44F712F.htm" />
+    <HelpKINode Title="IMyInput.GetListOfPressedKeys Method " Url="html/A9347638.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons method">
-    <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/B6E078F7.htm" />
     <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/C763748C.htm" />
+    <HelpKINode Title="IMyInput.GetListOfPressedMouseButtons Method " Url="html/B6E078F7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseAreaSize method">
-    <HelpKINode Title="IMyInput.GetMouseAreaSize Method " Url="html/7AC52E6E.htm" />
     <HelpKINode Title="IMyInput.GetMouseAreaSize Method " Url="html/2B93CBED.htm" />
+    <HelpKINode Title="IMyInput.GetMouseAreaSize Method " Url="html/7AC52E6E.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMousePosition method">
     <HelpKINode Title="IMyInput.GetMousePosition Method " Url="html/823CBAA1.htm" />
     <HelpKINode Title="IMyInput.GetMousePosition Method " Url="html/1A39E011.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseSensitivity method">
-    <HelpKINode Title="IMyInput.GetMouseSensitivity Method " Url="html/2EE0ED24.htm" />
     <HelpKINode Title="IMyInput.GetMouseSensitivity Method " Url="html/C096D377.htm" />
+    <HelpKINode Title="IMyInput.GetMouseSensitivity Method " Url="html/2EE0ED24.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseX method">
-    <HelpKINode Title="IMyInput.GetMouseX Method " Url="html/5DB159D6.htm" />
     <HelpKINode Title="IMyInput.GetMouseX Method " Url="html/73C83561.htm" />
+    <HelpKINode Title="IMyInput.GetMouseX Method " Url="html/5DB159D6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseXForGamePlay method">
-    <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/CC9844D7.htm" />
     <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/7D22B562.htm" />
+    <HelpKINode Title="IMyInput.GetMouseXForGamePlay Method " Url="html/CC9844D7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseXInversion method">
     <HelpKINode Title="IMyInput.GetMouseXInversion Method " Url="html/263F4562.htm" />
     <HelpKINode Title="IMyInput.GetMouseXInversion Method " Url="html/5AC26FDC.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseY method">
-    <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/E8633561.htm" />
     <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/5DB159D5.htm" />
+    <HelpKINode Title="IMyInput.GetMouseY Method " Url="html/E8633561.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseYForGamePlay method">
-    <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/9893A2A8.htm" />
     <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/7D22C1E3.htm" />
+    <HelpKINode Title="IMyInput.GetMouseYForGamePlay Method " Url="html/9893A2A8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetMouseYInversion method">
-    <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/263F4921.htm" />
     <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/EF1D6FDC.htm" />
+    <HelpKINode Title="IMyInput.GetMouseYInversion Method " Url="html/263F4921.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetName method">
-    <HelpKINode Title="IMyInput.GetName Method " Url="html/ECA7155E.htm" />
     <HelpKINode Title="IMyInput.GetName Method " Url="html/4A311A3C.htm" />
+    <HelpKINode Title="IMyInput.GetName Method " Url="html/ECA7155E.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.GetPressedKeys method">
     <HelpKINode Title="IMyInput.GetPressedKeys Method " Url="html/BE22F298.htm" />
@@ -3424,62 +3424,62 @@
     <HelpKINode Title="IMyInput.IsAnyNewMouseOrJoystickPressed Method " Url="html/62357F1C.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsAnyNewMousePressed method">
-    <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/B1AF2A57.htm" />
     <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/E5CD5482.htm" />
+    <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/B1AF2A57.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed method">
-    <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/EDAF9ADC.htm" />
     <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/50470D6A.htm" />
+    <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/EDAF9ADC.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsButtonPressed method">
     <HelpKINode Title="IMyInput.IsButtonPressed Method " Url="html/D1AA5838.htm" />
     <HelpKINode Title="IMyInput.IsButtonPressed Method " Url="html/C5D98B2.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsButtonReleased method">
-    <HelpKINode Title="IMyInput.IsButtonReleased Method " Url="html/467C7CF3.htm" />
     <HelpKINode Title="IMyInput.IsButtonReleased Method " Url="html/7800485E.htm" />
+    <HelpKINode Title="IMyInput.IsButtonReleased Method " Url="html/467C7CF3.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsCapsLock property">
     <HelpKINode Title="IMyInput.IsCapsLock Property " Url="html/EEDEB407.htm" />
     <HelpKINode Title="IMyInput.IsCapsLock Property " Url="html/8DBE9DB7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsGameControlPressed method">
-    <HelpKINode Title="IMyInput.IsGameControlPressed Method " Url="html/497710F4.htm" />
     <HelpKINode Title="IMyInput.IsGameControlPressed Method " Url="html/1829A60A.htm" />
+    <HelpKINode Title="IMyInput.IsGameControlPressed Method " Url="html/497710F4.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsGameControlReleased method">
-    <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/12FCDFF6.htm" />
     <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/6E4A410C.htm" />
+    <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/12FCDFF6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsGamepadKeyLeftPressed method" Url="html/2700AEC4.htm" />
   <HelpKINode Title="IMyInput.IsGamepadKeyRightPressed method" Url="html/E58B828E.htm" />
   <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed method">
-    <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/5B7EDE62.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/3751702E.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/5B7EDE62.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickAxisPressed method">
     <HelpKINode Title="IMyInput.IsJoystickAxisPressed Method " Url="html/BFC4A709.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisPressed Method " Url="html/9CE88AB7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickAxisValid method">
-    <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/6BB9E064.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/FA3DDD51.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/6BB9E064.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickButtonNewPressed method">
-    <HelpKINode Title="IMyInput.IsJoystickButtonNewPressed Method " Url="html/8B3AA8FF.htm" />
     <HelpKINode Title="IMyInput.IsJoystickButtonNewPressed Method " Url="html/B1A80C69.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickButtonNewPressed Method " Url="html/8B3AA8FF.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickButtonPressed method">
     <HelpKINode Title="IMyInput.IsJoystickButtonPressed Method " Url="html/13547022.htm" />
     <HelpKINode Title="IMyInput.IsJoystickButtonPressed Method " Url="html/6D53895A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickButtonValid method">
-    <HelpKINode Title="IMyInput.IsJoystickButtonValid Method " Url="html/4C095DF8.htm" />
     <HelpKINode Title="IMyInput.IsJoystickButtonValid Method " Url="html/3028AC19.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickButtonValid Method " Url="html/4C095DF8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickConnected method">
-    <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/4F349FC0.htm" />
     <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/10AEAC5.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/4F349FC0.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsJoystickLastUsed property">
     <HelpKINode Title="IMyInput.IsJoystickLastUsed Property " Url="html/519878C8.htm" />
@@ -3494,28 +3494,28 @@
     <HelpKINode Title="IMyInput.IsKeyPress Method " Url="html/25E409C7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsKeyValid method">
-    <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/9592E393.htm" />
     <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/72034B92.htm" />
+    <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/9592E393.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsLeftMousePressed method">
-    <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/C721A5C7.htm" />
     <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/2E853DC0.htm" />
+    <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/C721A5C7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsLeftMouseReleased method">
-    <HelpKINode Title="IMyInput.IsLeftMouseReleased Method " Url="html/4611BDA0.htm" />
     <HelpKINode Title="IMyInput.IsLeftMouseReleased Method " Url="html/68567A51.htm" />
+    <HelpKINode Title="IMyInput.IsLeftMouseReleased Method " Url="html/4611BDA0.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsMiddleMousePressed method">
     <HelpKINode Title="IMyInput.IsMiddleMousePressed Method " Url="html/9DB31803.htm" />
     <HelpKINode Title="IMyInput.IsMiddleMousePressed Method " Url="html/4D8F7633.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsMouseButtonValid method">
-    <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/96DBD28C.htm" />
     <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/502B7E0E.htm" />
+    <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/96DBD28C.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsMousePressed method">
-    <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/D7CD2665.htm" />
     <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/EB0D7EC7.htm" />
+    <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/D7CD2665.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsMouseReleased method">
     <HelpKINode Title="IMyInput.IsMouseReleased Method " Url="html/A341157F.htm" />
@@ -3541,8 +3541,8 @@
   <HelpKINode Title="IMyInput.IsNewGamepadKeyDownPressed method" Url="html/3AE66D6B.htm" />
   <HelpKINode Title="IMyInput.IsNewGamepadKeyUpPressed method" Url="html/4C136CA3.htm" />
   <HelpKINode Title="IMyInput.IsNewJoystickAxisReleased method">
-    <HelpKINode Title="IMyInput.IsNewJoystickAxisReleased Method " Url="html/539E7E28.htm" />
     <HelpKINode Title="IMyInput.IsNewJoystickAxisReleased Method " Url="html/7BB04A7.htm" />
+    <HelpKINode Title="IMyInput.IsNewJoystickAxisReleased Method " Url="html/539E7E28.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewJoystickButtonReleased method">
     <HelpKINode Title="IMyInput.IsNewJoystickButtonReleased Method " Url="html/5BB2C86E.htm" />
@@ -3557,12 +3557,12 @@
     <HelpKINode Title="IMyInput.IsNewKeyReleased Method " Url="html/D06F404B.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewLeftMousePressed method">
-    <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/C41322C8.htm" />
     <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/46594F8C.htm" />
+    <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/C41322C8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewLeftMouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/49859A88.htm" />
     <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/3BBABFD6.htm" />
+    <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/49859A88.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewMiddleMousePressed method">
     <HelpKINode Title="IMyInput.IsNewMiddleMousePressed Method " Url="html/DF836D9.htm" />
@@ -3577,20 +3577,20 @@
     <HelpKINode Title="IMyInput.IsNewMousePressed Method " Url="html/ABB88DD0.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed method">
-    <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/BF8744BB.htm" />
     <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/90B42F65.htm" />
+    <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/BF8744BB.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased method">
     <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased Method " Url="html/7A6CCBF3.htm" />
     <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased Method " Url="html/65755ADD.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewRightMousePressed method">
-    <HelpKINode Title="IMyInput.IsNewRightMousePressed Method " Url="html/14C769B0.htm" />
     <HelpKINode Title="IMyInput.IsNewRightMousePressed Method " Url="html/A7924682.htm" />
+    <HelpKINode Title="IMyInput.IsNewRightMousePressed Method " Url="html/14C769B0.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewRightMouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewRightMouseReleased Method " Url="html/A6FE038A.htm" />
     <HelpKINode Title="IMyInput.IsNewRightMouseReleased Method " Url="html/B7129CB1.htm" />
+    <HelpKINode Title="IMyInput.IsNewRightMouseReleased Method " Url="html/A6FE038A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewSecondaryButtonPressed method">
     <HelpKINode Title="IMyInput.IsNewSecondaryButtonPressed Method " Url="html/798C5F44.htm" />
@@ -3613,8 +3613,8 @@
     <HelpKINode Title="IMyInput.IsNewXButton2MousePressed Method " Url="html/71B4AA93.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsNewXButton2MouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewXButton2MouseReleased Method " Url="html/AE351A5F.htm" />
     <HelpKINode Title="IMyInput.IsNewXButton2MouseReleased Method " Url="html/FBD8823E.htm" />
+    <HelpKINode Title="IMyInput.IsNewXButton2MouseReleased Method " Url="html/AE351A5F.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsPrimaryButtonPressed method">
     <HelpKINode Title="IMyInput.IsPrimaryButtonPressed Method " Url="html/4BD1258D.htm" />
@@ -3633,16 +3633,16 @@
     <HelpKINode Title="IMyInput.IsSecondaryButtonPressed Method " Url="html/61FDCBBD.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsSecondaryButtonReleased method">
-    <HelpKINode Title="IMyInput.IsSecondaryButtonReleased Method " Url="html/4013C051.htm" />
     <HelpKINode Title="IMyInput.IsSecondaryButtonReleased Method " Url="html/994884AC.htm" />
+    <HelpKINode Title="IMyInput.IsSecondaryButtonReleased Method " Url="html/4013C051.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsXButton1MousePressed method">
-    <HelpKINode Title="IMyInput.IsXButton1MousePressed Method " Url="html/EE16D843.htm" />
     <HelpKINode Title="IMyInput.IsXButton1MousePressed Method " Url="html/5412F9FC.htm" />
+    <HelpKINode Title="IMyInput.IsXButton1MousePressed Method " Url="html/EE16D843.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.IsXButton2MousePressed method">
-    <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/51B7D840.htm" />
     <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/541188EF.htm" />
+    <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/51B7D840.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.JoystickAsMouse property">
     <HelpKINode Title="IMyInput.JoystickAsMouse Property " Url="html/9BD4F68F.htm" />
@@ -3663,8 +3663,8 @@
     <HelpKINode Title="IMyInput.MouseScrollWheelValue Method " Url="html/7FEADA20.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.PreviousMouseScrollWheelValue method">
-    <HelpKINode Title="IMyInput.PreviousMouseScrollWheelValue Method " Url="html/6EB48CEE.htm" />
     <HelpKINode Title="IMyInput.PreviousMouseScrollWheelValue Method " Url="html/B4B4F88D.htm" />
+    <HelpKINode Title="IMyInput.PreviousMouseScrollWheelValue Method " Url="html/6EB48CEE.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.RevertChanges method" Url="html/EEB60F1.htm" />
   <HelpKINode Title="IMyInput.RevertToDefaultControls method" Url="html/7A62D890.htm" />
@@ -3684,12 +3684,12 @@
   <HelpKINode Title="IMyInput.UnloadData method" Url="html/D06253.htm" />
   <HelpKINode Title="IMyInput.Update method" Url="html/DE3C3416.htm" />
   <HelpKINode Title="IMyInput.WasMiddleMousePressed method">
-    <HelpKINode Title="IMyInput.WasMiddleMousePressed Method " Url="html/FC056D0D.htm" />
     <HelpKINode Title="IMyInput.WasMiddleMousePressed Method " Url="html/4189C9CB.htm" />
+    <HelpKINode Title="IMyInput.WasMiddleMousePressed Method " Url="html/FC056D0D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WasMiddleMouseReleased method">
-    <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/8C624088.htm" />
     <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/DD672A17.htm" />
+    <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/8C624088.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WasRightMousePressed method">
     <HelpKINode Title="IMyInput.WasRightMousePressed Method " Url="html/1C7E7C68.htm" />
@@ -3700,8 +3700,8 @@
     <HelpKINode Title="IMyInput.WasRightMouseReleased Method " Url="html/952C6A6A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WasXButton1MousePressed method">
-    <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/E3B66912.htm" />
     <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/7452E86B.htm" />
+    <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/E3B66912.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WasXButton1MouseReleased method">
     <HelpKINode Title="IMyInput.WasXButton1MouseReleased Method " Url="html/DFB2C5A0.htm" />
@@ -3712,8 +3712,8 @@
     <HelpKINode Title="IMyInput.WasXButton2MousePressed Method " Url="html/EA7848FF.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WasXButton2MouseReleased method">
-    <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/25D234ED.htm" />
     <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/4A49C59A.htm" />
+    <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/25D234ED.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInput.WindowHandle property" Url="html/515B3B5E.htm" />
   <HelpKINode Title="IMyInteriorLight interface">
@@ -3730,8 +3730,8 @@
     <HelpKINode Title="about IMyInventory interface" Url="html/7327C7E.htm" />
     <HelpKINode Title="methods" Url="html/DA15BA3E.htm" />
     <HelpKINode Title="methods" Url="html/EF77AACD.htm" />
-    <HelpKINode Title="properties" Url="html/4F65F5F5.htm" />
     <HelpKINode Title="properties" Url="html/B62260D2.htm" />
+    <HelpKINode Title="properties" Url="html/4F65F5F5.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInventory.AddItems method" Url="html/EB887D1F.htm" />
   <HelpKINode Title="IMyInventory.CanItemsBeAdded method" Url="html/967222AF.htm" />
@@ -3758,8 +3758,8 @@
     <HelpKINode Title="IMyInventory.TransferItemFrom Method " Url="html/E5D0C4D6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInventory.TransferItemTo method">
-    <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/60AAD7A7.htm" />
     <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/2ABAC3B5.htm" />
+    <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/60AAD7A7.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyInventoryItem interface">
     <HelpKINode Title="IMyInventoryItem Interface" Url="html/5DF0B8F0.htm" />
@@ -3795,16 +3795,16 @@
     <HelpKINode Title="properties" Url="html/71C8D94.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyLandingGear interface">
-    <HelpKINode Title="IMyLandingGear Interface" Url="html/26DDA110.htm" />
     <HelpKINode Title="IMyLandingGear Interface" Url="html/C6871E70.htm" />
-    <HelpKINode Title="about IMyLandingGear interface" Url="html/26DDA110.htm" />
+    <HelpKINode Title="IMyLandingGear Interface" Url="html/26DDA110.htm" />
     <HelpKINode Title="about IMyLandingGear interface" Url="html/C6871E70.htm" />
+    <HelpKINode Title="about IMyLandingGear interface" Url="html/26DDA110.htm" />
     <HelpKINode Title="events" Url="html/86D9E16C.htm" />
     <HelpKINode Title="events" Url="html/EE4EA01.htm" />
-    <HelpKINode Title="methods" Url="html/A7BC1700.htm" />
     <HelpKINode Title="methods" Url="html/49F1935D.htm" />
-    <HelpKINode Title="properties" Url="html/DB63346D.htm" />
+    <HelpKINode Title="methods" Url="html/A7BC1700.htm" />
     <HelpKINode Title="properties" Url="html/BC9397C4.htm" />
+    <HelpKINode Title="properties" Url="html/DB63346D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyLandingGear.BreakForce property" Url="html/D7469D06.htm" />
   <HelpKINode Title="IMyLandingGear.GetAttachedEntity method" Url="html/EE4CC79F.htm" />
@@ -3861,10 +3861,10 @@
   <HelpKINode Title="IMyLargeTurretBase.SyncEnableIdleRotation method" Url="html/66F9252.htm" />
   <HelpKINode Title="IMyLargeTurretBase.TrackTarget method" Url="html/F61F28B5.htm" />
   <HelpKINode Title="IMyLaserAntenna interface">
-    <HelpKINode Title="IMyLaserAntenna Interface" Url="html/89E5196.htm" />
     <HelpKINode Title="IMyLaserAntenna Interface" Url="html/B9FC6435.htm" />
-    <HelpKINode Title="about IMyLaserAntenna interface" Url="html/B9FC6435.htm" />
+    <HelpKINode Title="IMyLaserAntenna Interface" Url="html/89E5196.htm" />
     <HelpKINode Title="about IMyLaserAntenna interface" Url="html/89E5196.htm" />
+    <HelpKINode Title="about IMyLaserAntenna interface" Url="html/B9FC6435.htm" />
     <HelpKINode Title="events" Url="html/AB9B49A.htm" />
     <HelpKINode Title="events" Url="html/31844774.htm" />
     <HelpKINode Title="methods" Url="html/5B96E48C.htm" />
@@ -3910,14 +3910,14 @@
     <HelpKINode Title="properties" Url="html/65191D7F.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyMotorBase interface">
-    <HelpKINode Title="IMyMotorBase Interface" Url="html/792E2D13.htm" />
     <HelpKINode Title="IMyMotorBase Interface" Url="html/52B3C082.htm" />
+    <HelpKINode Title="IMyMotorBase Interface" Url="html/792E2D13.htm" />
     <HelpKINode Title="about IMyMotorBase interface" Url="html/792E2D13.htm" />
     <HelpKINode Title="about IMyMotorBase interface" Url="html/52B3C082.htm" />
-    <HelpKINode Title="events" Url="html/12F67A55.htm" />
     <HelpKINode Title="events" Url="html/160EA0A1.htm" />
-    <HelpKINode Title="methods" Url="html/DC2AF5C0.htm" />
+    <HelpKINode Title="events" Url="html/12F67A55.htm" />
     <HelpKINode Title="methods" Url="html/465C7926.htm" />
+    <HelpKINode Title="methods" Url="html/DC2AF5C0.htm" />
     <HelpKINode Title="properties" Url="html/61BBB90.htm" />
     <HelpKINode Title="properties" Url="html/B5913BC5.htm" />
   </HelpKINode>
@@ -3941,20 +3941,20 @@
     <HelpKINode Title="events" Url="html/A68EF94F.htm" />
     <HelpKINode Title="methods" Url="html/CD4434D2.htm" />
     <HelpKINode Title="methods" Url="html/FBC71CA7.htm" />
-    <HelpKINode Title="properties" Url="html/4AB5802D.htm" />
     <HelpKINode Title="properties" Url="html/B4E52845.htm" />
+    <HelpKINode Title="properties" Url="html/4AB5802D.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyMotorRotor.IsAttached property" Url="html/E3E1A58D.htm" />
   <HelpKINode Title="IMyMotorRotor.Stator property" Url="html/197825D4.htm" />
   <HelpKINode Title="IMyMotorStator interface">
     <HelpKINode Title="IMyMotorStator Interface" Url="html/4C7382CC.htm" />
     <HelpKINode Title="IMyMotorStator Interface" Url="html/305D82D.htm" />
-    <HelpKINode Title="about IMyMotorStator interface" Url="html/4C7382CC.htm" />
     <HelpKINode Title="about IMyMotorStator interface" Url="html/305D82D.htm" />
+    <HelpKINode Title="about IMyMotorStator interface" Url="html/4C7382CC.htm" />
     <HelpKINode Title="events" Url="html/5772A0CA.htm" />
     <HelpKINode Title="events" Url="html/6FF840EF.htm" />
-    <HelpKINode Title="methods" Url="html/F19EE947.htm" />
     <HelpKINode Title="methods" Url="html/55B5AD42.htm" />
+    <HelpKINode Title="methods" Url="html/F19EE947.htm" />
     <HelpKINode Title="properties" Url="html/C163B92.htm" />
     <HelpKINode Title="properties" Url="html/8123A562.htm" />
   </HelpKINode>
@@ -3968,14 +3968,14 @@
   <HelpKINode Title="IMyMotorStator.UpperLimit property" Url="html/62716DFF.htm" />
   <HelpKINode Title="IMyMotorStator.Velocity property" Url="html/DB752963.htm" />
   <HelpKINode Title="IMyMotorSuspension interface">
-    <HelpKINode Title="IMyMotorSuspension Interface" Url="html/D44B989E.htm" />
     <HelpKINode Title="IMyMotorSuspension Interface" Url="html/21DAF3C0.htm" />
+    <HelpKINode Title="IMyMotorSuspension Interface" Url="html/D44B989E.htm" />
     <HelpKINode Title="about IMyMotorSuspension interface" Url="html/D44B989E.htm" />
     <HelpKINode Title="about IMyMotorSuspension interface" Url="html/21DAF3C0.htm" />
     <HelpKINode Title="events" Url="html/CB6C896E.htm" />
     <HelpKINode Title="events" Url="html/FE2A9825.htm" />
-    <HelpKINode Title="methods" Url="html/A4026B6D.htm" />
     <HelpKINode Title="methods" Url="html/57233F2B.htm" />
+    <HelpKINode Title="methods" Url="html/A4026B6D.htm" />
     <HelpKINode Title="properties" Url="html/26329A51.htm" />
     <HelpKINode Title="properties" Url="html/46B9A65B.htm" />
   </HelpKINode>
@@ -4036,16 +4036,16 @@
   </HelpKINode>
   <HelpKINode Title="IMyOxygenFarm.GetOutput method" Url="html/74BF6DAD.htm" />
   <HelpKINode Title="IMyOxygenGenerator interface">
-    <HelpKINode Title="IMyOxygenGenerator Interface" Url="html/E671664B.htm" />
     <HelpKINode Title="IMyOxygenGenerator Interface" Url="html/5C4448D1.htm" />
+    <HelpKINode Title="IMyOxygenGenerator Interface" Url="html/E671664B.htm" />
     <HelpKINode Title="about IMyOxygenGenerator interface" Url="html/E671664B.htm" />
     <HelpKINode Title="about IMyOxygenGenerator interface" Url="html/5C4448D1.htm" />
     <HelpKINode Title="events" Url="html/136DB362.htm" />
     <HelpKINode Title="events" Url="html/1823E6E7.htm" />
-    <HelpKINode Title="methods" Url="html/2A211507.htm" />
     <HelpKINode Title="methods" Url="html/A24785DA.htm" />
-    <HelpKINode Title="properties" Url="html/596FAD23.htm" />
+    <HelpKINode Title="methods" Url="html/2A211507.htm" />
     <HelpKINode Title="properties" Url="html/88F4206B.htm" />
+    <HelpKINode Title="properties" Url="html/596FAD23.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyOxygenGenerator.AutoRefill property" Url="html/7FD032C6.htm" />
   <HelpKINode Title="IMyOxygenGenerator.PowerConsumptionMultiplier property" Url="html/D0622755.htm" />
@@ -4070,20 +4070,20 @@
   <HelpKINode Title="IMyParallelTask.Start method" Url="html/17104B60.htm" />
   <HelpKINode Title="IMyParallelTask.StartBackground method" Url="html/D9DBD3F0.htm" />
   <HelpKINode Title="IMyPistonBase interface">
-    <HelpKINode Title="IMyPistonBase Interface" Url="html/4AA4644E.htm" />
     <HelpKINode Title="IMyPistonBase Interface" Url="html/D1F15773.htm" />
-    <HelpKINode Title="about IMyPistonBase interface" Url="html/4AA4644E.htm" />
+    <HelpKINode Title="IMyPistonBase Interface" Url="html/4AA4644E.htm" />
     <HelpKINode Title="about IMyPistonBase interface" Url="html/D1F15773.htm" />
-    <HelpKINode Title="events" Url="html/586EF5A3.htm" />
+    <HelpKINode Title="about IMyPistonBase interface" Url="html/4AA4644E.htm" />
     <HelpKINode Title="events" Url="html/2060AD69.htm" />
-    <HelpKINode Title="methods" Url="html/B64FDED8.htm" />
+    <HelpKINode Title="events" Url="html/586EF5A3.htm" />
     <HelpKINode Title="methods" Url="html/2053489A.htm" />
+    <HelpKINode Title="methods" Url="html/B64FDED8.htm" />
     <HelpKINode Title="properties" Url="html/A9F85A60.htm" />
     <HelpKINode Title="properties" Url="html/9154A33F.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyPistonBase.Attach method">
-    <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1FFA2B1C.htm" />
     <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1D355B46.htm" />
+    <HelpKINode Title="IMyPistonBase.Attach Method " Url="html/1FFA2B1C.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyPistonBase.AttachedEntityChanged event" Url="html/F613C450.htm" />
   <HelpKINode Title="IMyPistonBase.CurrentPosition property" Url="html/421934DA.htm" />
@@ -4101,12 +4101,12 @@
   <HelpKINode Title="IMyPistonTop interface">
     <HelpKINode Title="IMyPistonTop Interface" Url="html/2C42EC5D.htm" />
     <HelpKINode Title="IMyPistonTop Interface" Url="html/20E2490.htm" />
-    <HelpKINode Title="about IMyPistonTop interface" Url="html/2C42EC5D.htm" />
     <HelpKINode Title="about IMyPistonTop interface" Url="html/20E2490.htm" />
+    <HelpKINode Title="about IMyPistonTop interface" Url="html/2C42EC5D.htm" />
     <HelpKINode Title="events" Url="html/6DEB4F86.htm" />
     <HelpKINode Title="events" Url="html/4CD1D23F.htm" />
-    <HelpKINode Title="methods" Url="html/17E7ABF7.htm" />
     <HelpKINode Title="methods" Url="html/6650A917.htm" />
+    <HelpKINode Title="methods" Url="html/17E7ABF7.htm" />
     <HelpKINode Title="properties" Url="html/914A0126.htm" />
     <HelpKINode Title="properties" Url="html/8EE8DE79.htm" />
   </HelpKINode>
@@ -4158,12 +4158,12 @@
   <HelpKINode Title="IMyProductionBlock interface">
     <HelpKINode Title="IMyProductionBlock Interface" Url="html/932E6C4C.htm" />
     <HelpKINode Title="IMyProductionBlock Interface" Url="html/2E3783B0.htm" />
-    <HelpKINode Title="about IMyProductionBlock interface" Url="html/2E3783B0.htm" />
     <HelpKINode Title="about IMyProductionBlock interface" Url="html/932E6C4C.htm" />
+    <HelpKINode Title="about IMyProductionBlock interface" Url="html/2E3783B0.htm" />
     <HelpKINode Title="events" Url="html/EA065F14.htm" />
     <HelpKINode Title="events" Url="html/50238C9C.htm" />
-    <HelpKINode Title="methods" Url="html/B53134D5.htm" />
     <HelpKINode Title="methods" Url="html/9EEDCF9E.htm" />
+    <HelpKINode Title="methods" Url="html/B53134D5.htm" />
     <HelpKINode Title="properties" Url="html/ED95DBEA.htm" />
     <HelpKINode Title="properties" Url="html/46794F8B.htm" />
   </HelpKINode>
@@ -4191,16 +4191,16 @@
   <HelpKINode Title="IMyProgrammableBlock.TerminalRunArgument property" Url="html/5D3EB13.htm" />
   <HelpKINode Title="IMyProgrammableBlock.TryRun method" Url="html/F1A1450A.htm" />
   <HelpKINode Title="IMyProjector interface">
-    <HelpKINode Title="IMyProjector Interface" Url="html/8D068053.htm" />
     <HelpKINode Title="IMyProjector Interface" Url="html/D8061628.htm" />
-    <HelpKINode Title="about IMyProjector interface" Url="html/D8061628.htm" />
+    <HelpKINode Title="IMyProjector Interface" Url="html/8D068053.htm" />
     <HelpKINode Title="about IMyProjector interface" Url="html/8D068053.htm" />
+    <HelpKINode Title="about IMyProjector interface" Url="html/D8061628.htm" />
     <HelpKINode Title="events" Url="html/2B48C31B.htm" />
     <HelpKINode Title="events" Url="html/FCD0C82F.htm" />
-    <HelpKINode Title="methods" Url="html/C3480DF9.htm" />
     <HelpKINode Title="methods" Url="html/49160C9B.htm" />
-    <HelpKINode Title="properties" Url="html/84CAAC75.htm" />
+    <HelpKINode Title="methods" Url="html/C3480DF9.htm" />
     <HelpKINode Title="properties" Url="html/7AD1B8F1.htm" />
+    <HelpKINode Title="properties" Url="html/84CAAC75.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyProjector.Build method" Url="html/F038B0BE.htm" />
   <HelpKINode Title="IMyProjector.BuildableBlocksCount property" Url="html/A24D2C97.htm" />
@@ -4235,12 +4235,12 @@
   <HelpKINode Title="IMyReactor interface">
     <HelpKINode Title="IMyReactor Interface" Url="html/E80B10A2.htm" />
     <HelpKINode Title="IMyReactor Interface" Url="html/863A4F61.htm" />
-    <HelpKINode Title="about IMyReactor interface" Url="html/E80B10A2.htm" />
     <HelpKINode Title="about IMyReactor interface" Url="html/863A4F61.htm" />
-    <HelpKINode Title="events" Url="html/EE3E272.htm" />
+    <HelpKINode Title="about IMyReactor interface" Url="html/E80B10A2.htm" />
     <HelpKINode Title="events" Url="html/AEA34F99.htm" />
-    <HelpKINode Title="methods" Url="html/1E4912DB.htm" />
+    <HelpKINode Title="events" Url="html/EE3E272.htm" />
     <HelpKINode Title="methods" Url="html/BC1A81F.htm" />
+    <HelpKINode Title="methods" Url="html/1E4912DB.htm" />
     <HelpKINode Title="properties" Url="html/7263752C.htm" />
     <HelpKINode Title="properties" Url="html/398D9C51.htm" />
   </HelpKINode>
@@ -4300,8 +4300,8 @@
     <HelpKINode Title="IMySensorBlock Interface" Url="html/412675AB.htm" />
     <HelpKINode Title="about IMySensorBlock interface" Url="html/40CD4668.htm" />
     <HelpKINode Title="about IMySensorBlock interface" Url="html/412675AB.htm" />
-    <HelpKINode Title="events" Url="html/BBA729B0.htm" />
     <HelpKINode Title="events" Url="html/E76C3C2.htm" />
+    <HelpKINode Title="events" Url="html/BBA729B0.htm" />
     <HelpKINode Title="methods" Url="html/516FD042.htm" />
     <HelpKINode Title="methods" Url="html/DEF617C3.htm" />
     <HelpKINode Title="properties" Url="html/5816AADA.htm" />
@@ -4439,16 +4439,16 @@
   <HelpKINode Title="IMyShipController.HandBrake property" Url="html/8FEC4123.htm" />
   <HelpKINode Title="IMyShipController.IsUnderControl property" Url="html/78E07F92.htm" />
   <HelpKINode Title="IMyShipDrill interface">
-    <HelpKINode Title="IMyShipDrill Interface" Url="html/DAE4C569.htm" />
     <HelpKINode Title="IMyShipDrill Interface" Url="html/CC9EF1AB.htm" />
+    <HelpKINode Title="IMyShipDrill Interface" Url="html/DAE4C569.htm" />
     <HelpKINode Title="about IMyShipDrill interface" Url="html/DAE4C569.htm" />
     <HelpKINode Title="about IMyShipDrill interface" Url="html/CC9EF1AB.htm" />
     <HelpKINode Title="events" Url="html/BA7CB5D1.htm" />
     <HelpKINode Title="events" Url="html/D8490583.htm" />
-    <HelpKINode Title="methods" Url="html/A2877354.htm" />
     <HelpKINode Title="methods" Url="html/966ABC6F.htm" />
-    <HelpKINode Title="properties" Url="html/44E84F43.htm" />
+    <HelpKINode Title="methods" Url="html/A2877354.htm" />
     <HelpKINode Title="properties" Url="html/1231CE4B.htm" />
+    <HelpKINode Title="properties" Url="html/44E84F43.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyShipDrill.DrillHarvestMultiplier property" Url="html/90A1D564.htm" />
   <HelpKINode Title="IMyShipDrill.PowerConsumptionMultiplier property" Url="html/E5BC19FB.htm" />
@@ -4461,12 +4461,12 @@
     <HelpKINode Title="properties" Url="html/C69CD331.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyShipMergeBlock interface">
-    <HelpKINode Title="IMyShipMergeBlock Interface" Url="html/88BCF7DE.htm" />
     <HelpKINode Title="IMyShipMergeBlock Interface" Url="html/6B1C9229.htm" />
-    <HelpKINode Title="about IMyShipMergeBlock interface" Url="html/6B1C9229.htm" />
+    <HelpKINode Title="IMyShipMergeBlock Interface" Url="html/88BCF7DE.htm" />
     <HelpKINode Title="about IMyShipMergeBlock interface" Url="html/88BCF7DE.htm" />
-    <HelpKINode Title="events" Url="html/A23F4EEA.htm" />
+    <HelpKINode Title="about IMyShipMergeBlock interface" Url="html/6B1C9229.htm" />
     <HelpKINode Title="events" Url="html/AF744E49.htm" />
+    <HelpKINode Title="events" Url="html/A23F4EEA.htm" />
     <HelpKINode Title="methods" Url="html/EA0A617.htm" />
     <HelpKINode Title="methods" Url="html/4A8BBD01.htm" />
     <HelpKINode Title="properties" Url="html/5EFEAFCA.htm" />
@@ -4484,25 +4484,25 @@
   <HelpKINode Title="IMyShipWelder interface">
     <HelpKINode Title="IMyShipWelder Interface" Url="html/4314ACCC.htm" />
     <HelpKINode Title="IMyShipWelder Interface" Url="html/B9DACE93.htm" />
-    <HelpKINode Title="about IMyShipWelder interface" Url="html/B9DACE93.htm" />
     <HelpKINode Title="about IMyShipWelder interface" Url="html/4314ACCC.htm" />
+    <HelpKINode Title="about IMyShipWelder interface" Url="html/B9DACE93.htm" />
     <HelpKINode Title="events" Url="html/367D3A77.htm" />
     <HelpKINode Title="events" Url="html/92CE59BE.htm" />
     <HelpKINode Title="methods" Url="html/2E0A6484.htm" />
     <HelpKINode Title="methods" Url="html/2973B8EF.htm" />
-    <HelpKINode Title="properties" Url="html/B6223586.htm" />
     <HelpKINode Title="properties" Url="html/A90C49DE.htm" />
+    <HelpKINode Title="properties" Url="html/B6223586.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyShipWelder.HelpOthers property" Url="html/CE9702A0.htm" />
   <HelpKINode Title="IMySlimBlock interface">
     <HelpKINode Title="IMySlimBlock Interface" Url="html/3EC4FE41.htm" />
     <HelpKINode Title="IMySlimBlock Interface" Url="html/4E134CBF.htm" />
-    <HelpKINode Title="about IMySlimBlock interface" Url="html/4E134CBF.htm" />
     <HelpKINode Title="about IMySlimBlock interface" Url="html/3EC4FE41.htm" />
+    <HelpKINode Title="about IMySlimBlock interface" Url="html/4E134CBF.htm" />
     <HelpKINode Title="methods" Url="html/A3959828.htm" />
     <HelpKINode Title="methods" Url="html/31F070EB.htm" />
-    <HelpKINode Title="properties" Url="html/ED4DB8D6.htm" />
     <HelpKINode Title="properties" Url="html/86F92F62.htm" />
+    <HelpKINode Title="properties" Url="html/ED4DB8D6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.AccumulatedDamage property">
     <HelpKINode Title="IMySlimBlock.AccumulatedDamage Property " Url="html/65A6EEED.htm" />
@@ -4516,8 +4516,8 @@
     <HelpKINode Title="IMySlimBlock.BuildIntegrity Property " Url="html/7741F94A.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.BuildLevelRatio property">
-    <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A27B49EE.htm" />
     <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A451DC1A.htm" />
+    <HelpKINode Title="IMySlimBlock.BuildLevelRatio Property " Url="html/A27B49EE.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.CalculateCurrentModel method" Url="html/B6A327B3.htm" />
   <HelpKINode Title="IMySlimBlock.CanContinueBuild method" Url="html/EC391947.htm" />
@@ -4539,8 +4539,8 @@
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.DecreaseMountLevel method" Url="html/A819704E.htm" />
   <HelpKINode Title="IMySlimBlock.FatBlock property">
-    <HelpKINode Title="IMySlimBlock.FatBlock Property " Url="html/17C907B5.htm" />
     <HelpKINode Title="IMySlimBlock.FatBlock Property " Url="html/A64F6360.htm" />
+    <HelpKINode Title="IMySlimBlock.FatBlock Property " Url="html/17C907B5.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.FixBones method" Url="html/433B7B76.htm" />
   <HelpKINode Title="IMySlimBlock.FullyDismount method" Url="html/B68365E1.htm" />
@@ -4548,28 +4548,28 @@
   <HelpKINode Title="IMySlimBlock.GetConstructionStockpileItemAmount method" Url="html/B05D1BD7.htm" />
   <HelpKINode Title="IMySlimBlock.GetCopyObjectBuilder method" Url="html/9B93B046.htm" />
   <HelpKINode Title="IMySlimBlock.GetMissingComponents method">
-    <HelpKINode Title="IMySlimBlock.GetMissingComponents Method " Url="html/DC50352E.htm" />
     <HelpKINode Title="IMySlimBlock.GetMissingComponents Method " Url="html/175E5830.htm" />
+    <HelpKINode Title="IMySlimBlock.GetMissingComponents Method " Url="html/DC50352E.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.GetObjectBuilder method" Url="html/C992EE96.htm" />
   <HelpKINode Title="IMySlimBlock.GetWorldBoundingBox method" Url="html/C69D05EA.htm" />
   <HelpKINode Title="IMySlimBlock.HasDeformation property">
-    <HelpKINode Title="IMySlimBlock.HasDeformation Property " Url="html/91522709.htm" />
     <HelpKINode Title="IMySlimBlock.HasDeformation Property " Url="html/1F93AB78.htm" />
+    <HelpKINode Title="IMySlimBlock.HasDeformation Property " Url="html/91522709.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.IncreaseMountLevel method" Url="html/F591078D.htm" />
   <HelpKINode Title="IMySlimBlock.InitOrientation method" Url="html/9B7F381C.htm" />
   <HelpKINode Title="IMySlimBlock.IsDestroyed property">
-    <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/BD4099D6.htm" />
     <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/DC31D881.htm" />
+    <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/BD4099D6.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.IsFullIntegrity property">
     <HelpKINode Title="IMySlimBlock.IsFullIntegrity Property " Url="html/FBDB0F9C.htm" />
     <HelpKINode Title="IMySlimBlock.IsFullIntegrity Property " Url="html/2CCAC616.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.IsFullyDismounted property">
-    <HelpKINode Title="IMySlimBlock.IsFullyDismounted Property " Url="html/72DA57D1.htm" />
     <HelpKINode Title="IMySlimBlock.IsFullyDismounted Property " Url="html/E9ED0E5.htm" />
+    <HelpKINode Title="IMySlimBlock.IsFullyDismounted Property " Url="html/72DA57D1.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.Mass property">
     <HelpKINode Title="IMySlimBlock.Mass Property " Url="html/B9FA8DA3.htm" />
@@ -4577,12 +4577,12 @@
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.Max property" Url="html/DA50448C.htm" />
   <HelpKINode Title="IMySlimBlock.MaxDeformation property">
-    <HelpKINode Title="IMySlimBlock.MaxDeformation Property " Url="html/F880B3B8.htm" />
     <HelpKINode Title="IMySlimBlock.MaxDeformation Property " Url="html/2A4BC13F.htm" />
+    <HelpKINode Title="IMySlimBlock.MaxDeformation Property " Url="html/F880B3B8.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.MaxIntegrity property">
-    <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/14477D6B.htm" />
     <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/B87C7066.htm" />
+    <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/14477D6B.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.MoveItemsFromConstructionStockpile method" Url="html/12FA4FC1.htm" />
   <HelpKINode Title="IMySlimBlock.MoveItemsToConstructionStockpile method" Url="html/225A498F.htm" />
@@ -4596,14 +4596,14 @@
   <HelpKINode Title="IMySlimBlock.RemoveNeighbours method" Url="html/5DFBDD86.htm" />
   <HelpKINode Title="IMySlimBlock.SetToConstructionSite method" Url="html/BBB5931F.htm" />
   <HelpKINode Title="IMySlimBlock.ShowParts property">
-    <HelpKINode Title="IMySlimBlock.ShowParts Property " Url="html/1AA89291.htm" />
     <HelpKINode Title="IMySlimBlock.ShowParts Property " Url="html/F61470CD.htm" />
+    <HelpKINode Title="IMySlimBlock.ShowParts Property " Url="html/1AA89291.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.SpawnConstructionStockpile method" Url="html/3BB96A08.htm" />
   <HelpKINode Title="IMySlimBlock.SpawnFirstItemInConstructionStockpile method" Url="html/411D0915.htm" />
   <HelpKINode Title="IMySlimBlock.StockpileAllocated property">
-    <HelpKINode Title="IMySlimBlock.StockpileAllocated Property " Url="html/EFDFE50F.htm" />
     <HelpKINode Title="IMySlimBlock.StockpileAllocated Property " Url="html/818BD2ED.htm" />
+    <HelpKINode Title="IMySlimBlock.StockpileAllocated Property " Url="html/EFDFE50F.htm" />
   </HelpKINode>
   <HelpKINode Title="IMySlimBlock.StockpileEmpty property">
     <HelpKINode Title="IMySlimBlock.StockpileEmpty Property " Url="html/9963E028.htm" />
@@ -4657,8 +4657,8 @@
   <HelpKINode Title="IMySoundBlock.Range property" Url="html/440FEFA7.htm" />
   <HelpKINode Title="IMySoundBlock.Volume property" Url="html/ADBC5945.htm" />
   <HelpKINode Title="IMySpaceBall interface">
-    <HelpKINode Title="IMySpaceBall Interface" Url="html/727A2A37.htm" />
     <HelpKINode Title="IMySpaceBall Interface" Url="html/B0223937.htm" />
+    <HelpKINode Title="IMySpaceBall Interface" Url="html/727A2A37.htm" />
     <HelpKINode Title="about IMySpaceBall interface" Url="html/B0223937.htm" />
     <HelpKINode Title="about IMySpaceBall interface" Url="html/727A2A37.htm" />
     <HelpKINode Title="events" Url="html/AFAFDFD1.htm" />
@@ -4715,12 +4715,12 @@
     <HelpKINode Title="IMyTerminalBlock Interface" Url="html/FB2B4612.htm" />
     <HelpKINode Title="about IMyTerminalBlock interface" Url="html/A11C3466.htm" />
     <HelpKINode Title="about IMyTerminalBlock interface" Url="html/FB2B4612.htm" />
-    <HelpKINode Title="events" Url="html/4A730AA1.htm" />
     <HelpKINode Title="events" Url="html/50FF3C3E.htm" />
+    <HelpKINode Title="events" Url="html/4A730AA1.htm" />
     <HelpKINode Title="methods" Url="html/D3AE94FD.htm" />
     <HelpKINode Title="methods" Url="html/1AA01140.htm" />
-    <HelpKINode Title="properties" Url="html/D0CC1EDA.htm" />
     <HelpKINode Title="properties" Url="html/9982366D.htm" />
+    <HelpKINode Title="properties" Url="html/D0CC1EDA.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyTerminalBlock.AppendingCustomInfo event" Url="html/38C2E75F.htm" />
   <HelpKINode Title="IMyTerminalBlock.CustomInfo property" Url="html/A5FB4930.htm" />
@@ -4752,6 +4752,7 @@
   <HelpKINode Title="IMyTerminalControl.Id property" Url="html/37F3EF85.htm" />
   <HelpKINode Title="IMyTerminalControl.RedrawControl method" Url="html/C6F30A1F.htm" />
   <HelpKINode Title="IMyTerminalControl.SupportsMultipleBlocks property" Url="html/56AC223B.htm" />
+  <HelpKINode Title="IMyTerminalControl.UpdateVisual method" Url="html/34B261BD.htm" />
   <HelpKINode Title="IMyTerminalControl.Visible property" Url="html/9ED0CAE2.htm" />
   <HelpKINode Title="IMyTerminalControlButton interface">
     <HelpKINode Title="IMyTerminalControlButton Interface" Url="html/CC1F73D.htm" />
@@ -4894,8 +4895,8 @@
     <HelpKINode Title="IMyTextPanel Interface" Url="html/1986FC82.htm" />
     <HelpKINode Title="about IMyTextPanel interface" Url="html/92043242.htm" />
     <HelpKINode Title="about IMyTextPanel interface" Url="html/1986FC82.htm" />
-    <HelpKINode Title="events" Url="html/DE7B5CA8.htm" />
     <HelpKINode Title="events" Url="html/BCAC60D8.htm" />
+    <HelpKINode Title="events" Url="html/DE7B5CA8.htm" />
     <HelpKINode Title="methods" Url="html/5F605943.htm" />
     <HelpKINode Title="methods" Url="html/6C7A6920.htm" />
     <HelpKINode Title="properties" Url="html/D042ABE6.htm" />
@@ -4923,10 +4924,10 @@
   <HelpKINode Title="IMyTextPanel.WritePublicText method" Url="html/D2478C28.htm" />
   <HelpKINode Title="IMyTextPanel.WritePublicTitle method" Url="html/394EAD7.htm" />
   <HelpKINode Title="IMyThrust interface">
-    <HelpKINode Title="IMyThrust Interface" Url="html/B0F470B4.htm" />
     <HelpKINode Title="IMyThrust Interface" Url="html/F530AE73.htm" />
-    <HelpKINode Title="about IMyThrust interface" Url="html/B0F470B4.htm" />
+    <HelpKINode Title="IMyThrust Interface" Url="html/B0F470B4.htm" />
     <HelpKINode Title="about IMyThrust interface" Url="html/F530AE73.htm" />
+    <HelpKINode Title="about IMyThrust interface" Url="html/B0F470B4.htm" />
     <HelpKINode Title="events" Url="html/9B4B8256.htm" />
     <HelpKINode Title="events" Url="html/D68AC386.htm" />
     <HelpKINode Title="methods" Url="html/643AB0F9.htm" />
@@ -4947,14 +4948,14 @@
   <HelpKINode Title="IMyTimerBlock.IsCountingDown property" Url="html/CE2E6E2A.htm" />
   <HelpKINode Title="IMyTimerBlock.TriggerDelay property" Url="html/487754B7.htm" />
   <HelpKINode Title="IMyUpgradableBlock interface">
-    <HelpKINode Title="IMyUpgradableBlock Interface" Url="html/E3C69864.htm" />
     <HelpKINode Title="IMyUpgradableBlock Interface" Url="html/126D741F.htm" />
-    <HelpKINode Title="about IMyUpgradableBlock interface" Url="html/E3C69864.htm" />
+    <HelpKINode Title="IMyUpgradableBlock Interface" Url="html/E3C69864.htm" />
     <HelpKINode Title="about IMyUpgradableBlock interface" Url="html/126D741F.htm" />
+    <HelpKINode Title="about IMyUpgradableBlock interface" Url="html/E3C69864.htm" />
     <HelpKINode Title="methods" Url="html/2E69EFED.htm" />
     <HelpKINode Title="methods" Url="html/1B7C8E00.htm" />
-    <HelpKINode Title="properties" Url="html/E569CFB4.htm" />
     <HelpKINode Title="properties" Url="html/F5E25F7B.htm" />
+    <HelpKINode Title="properties" Url="html/E569CFB4.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyUpgradableBlock.GetUpgrades method" Url="html/62F46673.htm" />
   <HelpKINode Title="IMyUpgradableBlock.UpgradeCount property" Url="html/3DF1726A.htm" />
@@ -4963,10 +4964,10 @@
     <HelpKINode Title="IMyUpgradeModule Interface" Url="html/E231E3D0.htm" />
     <HelpKINode Title="about IMyUpgradeModule interface" Url="html/C3B6B64E.htm" />
     <HelpKINode Title="about IMyUpgradeModule interface" Url="html/E231E3D0.htm" />
-    <HelpKINode Title="methods" Url="html/3E865E08.htm" />
     <HelpKINode Title="methods" Url="html/C278C36E.htm" />
-    <HelpKINode Title="properties" Url="html/BD404D38.htm" />
+    <HelpKINode Title="methods" Url="html/3E865E08.htm" />
     <HelpKINode Title="properties" Url="html/E3EA9296.htm" />
+    <HelpKINode Title="properties" Url="html/BD404D38.htm" />
   </HelpKINode>
   <HelpKINode Title="IMyUpgradeModule.Connections property" Url="html/3621CA1F.htm" />
   <HelpKINode Title="IMyUpgradeModule.GetUpgradeList method" Url="html/16CA3A8A.htm" />
@@ -5324,28 +5325,28 @@
     <HelpKINode Title="IMyInput.IsAnyCtrlKeyPressed Method " Url="html/6C9019B5.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyKeyPress method">
-    <HelpKINode Title="IMyInput.IsAnyKeyPress Method " Url="html/658C0BE3.htm" />
     <HelpKINode Title="IMyInput.IsAnyKeyPress Method " Url="html/C119FB0D.htm" />
+    <HelpKINode Title="IMyInput.IsAnyKeyPress Method " Url="html/658C0BE3.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyMouseOrJoystickPressed method">
     <HelpKINode Title="IMyInput.IsAnyMouseOrJoystickPressed Method " Url="html/F98BA9B4.htm" />
     <HelpKINode Title="IMyInput.IsAnyMouseOrJoystickPressed Method " Url="html/80C5A7AB.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyMousePressed method">
-    <HelpKINode Title="IMyInput.IsAnyMousePressed Method " Url="html/89A15761.htm" />
     <HelpKINode Title="IMyInput.IsAnyMousePressed Method " Url="html/AB9E4699.htm" />
+    <HelpKINode Title="IMyInput.IsAnyMousePressed Method " Url="html/89A15761.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyNewMouseOrJoystickPressed method">
     <HelpKINode Title="IMyInput.IsAnyNewMouseOrJoystickPressed Method " Url="html/7AF6528.htm" />
     <HelpKINode Title="IMyInput.IsAnyNewMouseOrJoystickPressed Method " Url="html/62357F1C.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyNewMousePressed method">
-    <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/B1AF2A57.htm" />
     <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/E5CD5482.htm" />
+    <HelpKINode Title="IMyInput.IsAnyNewMousePressed Method " Url="html/B1AF2A57.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAnyShiftKeyPressed method">
-    <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/50470D6A.htm" />
     <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/EDAF9ADC.htm" />
+    <HelpKINode Title="IMyInput.IsAnyShiftKeyPressed Method " Url="html/50470D6A.htm" />
   </HelpKINode>
   <HelpKINode Title="IsArmed field" Url="html/E5BFDE3F.htm" />
   <HelpKINode Title="IsAttached property">
@@ -5356,8 +5357,8 @@
   </HelpKINode>
   <HelpKINode Title="IsAutoPilotEnabled property" Url="html/2831CC26.htm" />
   <HelpKINode Title="IsBeingHacked property">
-    <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/467B454B.htm" />
     <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/F10AA075.htm" />
+    <HelpKINode Title="IMyCubeBlock.IsBeingHacked Property " Url="html/467B454B.htm" />
   </HelpKINode>
   <HelpKINode Title="IsBot property" Url="html/DD013D17.htm" />
   <HelpKINode Title="IsBoxIntersectingBoundingBoxOfThisVoxelMap method" Url="html/CE3A7504.htm" />
@@ -5404,8 +5405,8 @@
   <HelpKINode Title="IsDepressurizing field" Url="html/92EB2338.htm" />
   <HelpKINode Title="IsDepressurizing property" Url="html/A691AB90.htm" />
   <HelpKINode Title="IsDestroyed property">
-    <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/BD4099D6.htm" />
     <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/DC31D881.htm" />
+    <HelpKINode Title="IMySlimBlock.IsDestroyed Property " Url="html/BD4099D6.htm" />
   </HelpKINode>
   <HelpKINode Title="IsEmpty property" Url="html/4A1847D1.htm" />
   <HelpKINode Title="IsEnabled method" Url="html/2B93E6D2.htm" />
@@ -5414,24 +5415,24 @@
   <HelpKINode Title="IsFounder method" Url="html/D14E302D.htm" />
   <HelpKINode Title="IsFull property" Url="html/A8BB2E4F.htm" />
   <HelpKINode Title="IsFullIntegrity property">
-    <HelpKINode Title="IMySlimBlock.IsFullIntegrity Property " Url="html/2CCAC616.htm" />
     <HelpKINode Title="IMySlimBlock.IsFullIntegrity Property " Url="html/FBDB0F9C.htm" />
+    <HelpKINode Title="IMySlimBlock.IsFullIntegrity Property " Url="html/2CCAC616.htm" />
   </HelpKINode>
   <HelpKINode Title="IsFullyDismounted property">
     <HelpKINode Title="IMySlimBlock.IsFullyDismounted Property " Url="html/E9ED0E5.htm" />
     <HelpKINode Title="IMySlimBlock.IsFullyDismounted Property " Url="html/72DA57D1.htm" />
   </HelpKINode>
   <HelpKINode Title="IsFunctional property">
-    <HelpKINode Title="IMyCubeBlock.IsFunctional Property " Url="html/EEBF8858.htm" />
     <HelpKINode Title="IMyCubeBlock.IsFunctional Property " Url="html/FE4AC8CD.htm" />
+    <HelpKINode Title="IMyCubeBlock.IsFunctional Property " Url="html/EEBF8858.htm" />
   </HelpKINode>
   <HelpKINode Title="IsGameControlPressed method">
     <HelpKINode Title="IMyInput.IsGameControlPressed Method " Url="html/497710F4.htm" />
     <HelpKINode Title="IMyInput.IsGameControlPressed Method " Url="html/1829A60A.htm" />
   </HelpKINode>
   <HelpKINode Title="IsGameControlReleased method">
-    <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/12FCDFF6.htm" />
     <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/6E4A410C.htm" />
+    <HelpKINode Title="IMyInput.IsGameControlReleased Method " Url="html/12FCDFF6.htm" />
   </HelpKINode>
   <HelpKINode Title="IsGamepadKeyLeftPressed method" Url="html/2700AEC4.htm" />
   <HelpKINode Title="IsGamepadKeyRightPressed method" Url="html/E58B828E.htm" />
@@ -5448,16 +5449,16 @@
   <HelpKINode Title="IsIntegral method" Url="html/1E2FC70D.htm" />
   <HelpKINode Title="IsItemAt method" Url="html/A7E8DCB5.htm" />
   <HelpKINode Title="IsJoystickAxisNewPressed method">
-    <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/5B7EDE62.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/3751702E.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickAxisNewPressed Method " Url="html/5B7EDE62.htm" />
   </HelpKINode>
   <HelpKINode Title="IsJoystickAxisPressed method">
     <HelpKINode Title="IMyInput.IsJoystickAxisPressed Method " Url="html/BFC4A709.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisPressed Method " Url="html/9CE88AB7.htm" />
   </HelpKINode>
   <HelpKINode Title="IsJoystickAxisValid method">
-    <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/FA3DDD51.htm" />
     <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/6BB9E064.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickAxisValid Method " Url="html/FA3DDD51.htm" />
   </HelpKINode>
   <HelpKINode Title="IsJoystickButtonNewPressed method">
     <HelpKINode Title="IMyInput.IsJoystickButtonNewPressed Method " Url="html/8B3AA8FF.htm" />
@@ -5472,8 +5473,8 @@
     <HelpKINode Title="IMyInput.IsJoystickButtonValid Method " Url="html/3028AC19.htm" />
   </HelpKINode>
   <HelpKINode Title="IsJoystickConnected method">
-    <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/4F349FC0.htm" />
     <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/10AEAC5.htm" />
+    <HelpKINode Title="IMyInput.IsJoystickConnected Method " Url="html/4F349FC0.htm" />
   </HelpKINode>
   <HelpKINode Title="IsJoystickLastUsed property">
     <HelpKINode Title="IMyInput.IsJoystickLastUsed Property " Url="html/519878C8.htm" />
@@ -5481,23 +5482,23 @@
   </HelpKINode>
   <HelpKINode Title="IsJoystickPressed method" Url="html/A2E09E69.htm" />
   <HelpKINode Title="IsKeyDigit method">
-    <HelpKINode Title="IMyInput.IsKeyDigit Method " Url="html/9968E294.htm" />
     <HelpKINode Title="IMyInput.IsKeyDigit Method " Url="html/5CA8A6BA.htm" />
+    <HelpKINode Title="IMyInput.IsKeyDigit Method " Url="html/9968E294.htm" />
   </HelpKINode>
   <HelpKINode Title="IsKeyPress method">
     <HelpKINode Title="IMyInput.IsKeyPress Method " Url="html/9720CA5B.htm" />
     <HelpKINode Title="IMyInput.IsKeyPress Method " Url="html/25E409C7.htm" />
   </HelpKINode>
   <HelpKINode Title="IsKeyValid method">
-    <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/72034B92.htm" />
     <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/9592E393.htm" />
+    <HelpKINode Title="IMyInput.IsKeyValid Method " Url="html/72034B92.htm" />
   </HelpKINode>
   <HelpKINode Title="IsLargeTurret field" Url="html/575DFDD9.htm" />
   <HelpKINode Title="IsLeader field" Url="html/C0E0D6F5.htm" />
   <HelpKINode Title="IsLeader method" Url="html/1AA6E6E4.htm" />
   <HelpKINode Title="IsLeftMousePressed method">
-    <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/2E853DC0.htm" />
     <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/C721A5C7.htm" />
+    <HelpKINode Title="IMyInput.IsLeftMousePressed Method " Url="html/2E853DC0.htm" />
   </HelpKINode>
   <HelpKINode Title="IsLeftMouseReleased method">
     <HelpKINode Title="IMyInput.IsLeftMouseReleased Method " Url="html/68567A51.htm" />
@@ -5518,16 +5519,16 @@
     <HelpKINode Title="IMyInput.IsMiddleMousePressed Method " Url="html/4D8F7633.htm" />
   </HelpKINode>
   <HelpKINode Title="IsMouseButtonValid method">
-    <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/502B7E0E.htm" />
     <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/96DBD28C.htm" />
+    <HelpKINode Title="IMyInput.IsMouseButtonValid Method " Url="html/502B7E0E.htm" />
   </HelpKINode>
   <HelpKINode Title="IsMousePressed method">
-    <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/EB0D7EC7.htm" />
     <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/D7CD2665.htm" />
+    <HelpKINode Title="IMyInput.IsMousePressed Method " Url="html/EB0D7EC7.htm" />
   </HelpKINode>
   <HelpKINode Title="IsMouseReleased method">
-    <HelpKINode Title="IMyInput.IsMouseReleased Method " Url="html/A341157F.htm" />
     <HelpKINode Title="IMyInput.IsMouseReleased Method " Url="html/CAE50D31.htm" />
+    <HelpKINode Title="IMyInput.IsMouseReleased Method " Url="html/A341157F.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNameExists method" Url="html/9A8D3D5A.htm" />
   <HelpKINode Title="IsNeutral method" Url="html/1242FB15.htm" />
@@ -5555,47 +5556,47 @@
     <HelpKINode Title="IMyInput.IsNewJoystickAxisReleased Method " Url="html/539E7E28.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewJoystickButtonReleased method">
-    <HelpKINode Title="IMyInput.IsNewJoystickButtonReleased Method " Url="html/5BB2C86E.htm" />
     <HelpKINode Title="IMyInput.IsNewJoystickButtonReleased Method " Url="html/736BDC27.htm" />
+    <HelpKINode Title="IMyInput.IsNewJoystickButtonReleased Method " Url="html/5BB2C86E.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewJoystickPressed method" Url="html/89D4633F.htm" />
   <HelpKINode Title="IsNewJoystickReleased method" Url="html/16D1DF73.htm" />
   <HelpKINode Title="IsNewKeyPressed method">
-    <HelpKINode Title="IMyInput.IsNewKeyPressed Method " Url="html/206C3611.htm" />
     <HelpKINode Title="IMyInput.IsNewKeyPressed Method " Url="html/854D4CEB.htm" />
+    <HelpKINode Title="IMyInput.IsNewKeyPressed Method " Url="html/206C3611.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewKeyReleased method">
     <HelpKINode Title="IMyInput.IsNewKeyReleased Method " Url="html/1080C489.htm" />
     <HelpKINode Title="IMyInput.IsNewKeyReleased Method " Url="html/D06F404B.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewLeftMousePressed method">
-    <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/46594F8C.htm" />
     <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/C41322C8.htm" />
+    <HelpKINode Title="IMyInput.IsNewLeftMousePressed Method " Url="html/46594F8C.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewLeftMouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/3BBABFD6.htm" />
     <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/49859A88.htm" />
+    <HelpKINode Title="IMyInput.IsNewLeftMouseReleased Method " Url="html/3BBABFD6.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewMiddleMousePressed method">
     <HelpKINode Title="IMyInput.IsNewMiddleMousePressed Method " Url="html/2093F82.htm" />
     <HelpKINode Title="IMyInput.IsNewMiddleMousePressed Method " Url="html/DF836D9.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewMiddleMouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewMiddleMouseReleased Method " Url="html/355228B4.htm" />
     <HelpKINode Title="IMyInput.IsNewMiddleMouseReleased Method " Url="html/CE68962E.htm" />
+    <HelpKINode Title="IMyInput.IsNewMiddleMouseReleased Method " Url="html/355228B4.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewMousePressed method">
-    <HelpKINode Title="IMyInput.IsNewMousePressed Method " Url="html/ABB88DD0.htm" />
     <HelpKINode Title="IMyInput.IsNewMousePressed Method " Url="html/3C4CF8C4.htm" />
+    <HelpKINode Title="IMyInput.IsNewMousePressed Method " Url="html/ABB88DD0.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewPressed method" Url="html/16952717.htm" />
   <HelpKINode Title="IsNewPrimaryButtonPressed method">
-    <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/90B42F65.htm" />
     <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/BF8744BB.htm" />
+    <HelpKINode Title="IMyInput.IsNewPrimaryButtonPressed Method " Url="html/90B42F65.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewPrimaryButtonReleased method">
-    <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased Method " Url="html/7A6CCBF3.htm" />
     <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased Method " Url="html/65755ADD.htm" />
+    <HelpKINode Title="IMyInput.IsNewPrimaryButtonReleased Method " Url="html/7A6CCBF3.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewReleased method" Url="html/BAF34447.htm" />
   <HelpKINode Title="IsNewRightMousePressed method">
@@ -5615,16 +5616,16 @@
     <HelpKINode Title="IMyInput.IsNewSecondaryButtonReleased Method " Url="html/398FC723.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewXButton1MousePressed method">
-    <HelpKINode Title="IMyInput.IsNewXButton1MousePressed Method " Url="html/71B42EB8.htm" />
     <HelpKINode Title="IMyInput.IsNewXButton1MousePressed Method " Url="html/B249517F.htm" />
+    <HelpKINode Title="IMyInput.IsNewXButton1MousePressed Method " Url="html/71B42EB8.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewXButton1MouseReleased method">
-    <HelpKINode Title="IMyInput.IsNewXButton1MouseReleased Method " Url="html/5EC2C14A.htm" />
     <HelpKINode Title="IMyInput.IsNewXButton1MouseReleased Method " Url="html/AE349E34.htm" />
+    <HelpKINode Title="IMyInput.IsNewXButton1MouseReleased Method " Url="html/5EC2C14A.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewXButton2MousePressed method">
-    <HelpKINode Title="IMyInput.IsNewXButton2MousePressed Method " Url="html/71B4AA93.htm" />
     <HelpKINode Title="IMyInput.IsNewXButton2MousePressed Method " Url="html/70F4DA3B.htm" />
+    <HelpKINode Title="IMyInput.IsNewXButton2MousePressed Method " Url="html/71B4AA93.htm" />
   </HelpKINode>
   <HelpKINode Title="IsNewXButton2MouseReleased method">
     <HelpKINode Title="IMyInput.IsNewXButton2MouseReleased Method " Url="html/AE351A5F.htm" />
@@ -5648,8 +5649,8 @@
   <HelpKINode Title="IsPressurized method" Url="html/D1A9BF40.htm" />
   <HelpKINode Title="IsPreview property" Url="html/12EFBCD.htm" />
   <HelpKINode Title="IsPrimaryButtonPressed method">
-    <HelpKINode Title="IMyInput.IsPrimaryButtonPressed Method " Url="html/963F3B85.htm" />
     <HelpKINode Title="IMyInput.IsPrimaryButtonPressed Method " Url="html/4BD1258D.htm" />
+    <HelpKINode Title="IMyInput.IsPrimaryButtonPressed Method " Url="html/963F3B85.htm" />
   </HelpKINode>
   <HelpKINode Title="IsPrimaryButtonReleased method">
     <HelpKINode Title="IMyInput.IsPrimaryButtonReleased Method " Url="html/7BAE129D.htm" />
@@ -5671,8 +5672,8 @@
   </HelpKINode>
   <HelpKINode Title="IsRunning property" Url="html/51F11104.htm" />
   <HelpKINode Title="IsSecondaryButtonPressed method">
-    <HelpKINode Title="IMyInput.IsSecondaryButtonPressed Method " Url="html/61FDCBBD.htm" />
     <HelpKINode Title="IMyInput.IsSecondaryButtonPressed Method " Url="html/F521AC3F.htm" />
+    <HelpKINode Title="IMyInput.IsSecondaryButtonPressed Method " Url="html/61FDCBBD.htm" />
   </HelpKINode>
   <HelpKINode Title="IsSecondaryButtonReleased method">
     <HelpKINode Title="IMyInput.IsSecondaryButtonReleased Method " Url="html/994884AC.htm" />
@@ -5732,8 +5733,8 @@
     <HelpKINode Title="IMyInput.IsXButton1MousePressed Method " Url="html/5412F9FC.htm" />
   </HelpKINode>
   <HelpKINode Title="IsXButton2MousePressed method">
-    <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/51B7D840.htm" />
     <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/541188EF.htm" />
+    <HelpKINode Title="IMyInput.IsXButton2MousePressed Method " Url="html/51B7D840.htm" />
   </HelpKINode>
   <HelpKINode Title="IsZero method" Url="html/D36F3703.htm" />
   <HelpKINode Title="IsZero property">
@@ -5881,8 +5882,8 @@
     <HelpKINode Title="IMyInput.JoystickConnected Event" Url="html/53BBDFD6.htm" />
   </HelpKINode>
   <HelpKINode Title="JoystickInstanceName property">
-    <HelpKINode Title="IMyInput.JoystickInstanceName Property " Url="html/49CB8B97.htm" />
     <HelpKINode Title="IMyInput.JoystickInstanceName Property " Url="html/97AA3E8F.htm" />
+    <HelpKINode Title="IMyInput.JoystickInstanceName Property " Url="html/49CB8B97.htm" />
   </HelpKINode>
   <HelpKINode Title="Jump field" Url="html/5E3C4BFB.htm" />
   <HelpKINode Title="Jump method" Url="html/DC32E24F.htm" />
@@ -6058,8 +6059,8 @@
   <HelpKINode Title="Mass property">
     <HelpKINode Title="IMyCubeBlock.Mass Property " Url="html/5923D9B2.htm" />
     <HelpKINode Title="IMyCubeBlock.Mass Property " Url="html/10CF7CA0.htm" />
-    <HelpKINode Title="IMySlimBlock.Mass Property " Url="html/49014691.htm" />
     <HelpKINode Title="IMySlimBlock.Mass Property " Url="html/B9FA8DA3.htm" />
+    <HelpKINode Title="IMySlimBlock.Mass Property " Url="html/49014691.htm" />
   </HelpKINode>
   <HelpKINode Title="MasterToSlave field" Url="html/B170EE69.htm" />
   <HelpKINode Title="MasterToSlaveGrid field" Url="html/7DF538C3.htm" />
@@ -6080,8 +6081,8 @@
     <HelpKINode Title="Vector3.Max Method " Url="html/FABF7EFD.htm" />
   </HelpKINode>
   <HelpKINode Title="Max property">
-    <HelpKINode Title="IMyCubeBlock.Max Property " Url="html/174A797E.htm" />
     <HelpKINode Title="IMyCubeBlock.Max Property " Url="html/52BBF325.htm" />
+    <HelpKINode Title="IMyCubeBlock.Max Property " Url="html/174A797E.htm" />
     <HelpKINode Title="IMyCubeGrid.Max Property " Url="html/ADE65765.htm" />
     <HelpKINode Title="IMyCubeGrid.Max Property " Url="html/154C95E5.htm" />
     <HelpKINode Title="IMySlimBlock.Max Property " Url="html/DA50448C.htm" />
@@ -6116,8 +6117,8 @@
   <HelpKINode Title="MaximumThreads property" Url="html/9B7B81E5.htm" />
   <HelpKINode Title="MaxInstructionCount property" Url="html/6D19FCB.htm" />
   <HelpKINode Title="MaxIntegrity property">
-    <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/14477D6B.htm" />
     <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/B87C7066.htm" />
+    <HelpKINode Title="IMySlimBlock.MaxIntegrity Property " Url="html/14477D6B.htm" />
   </HelpKINode>
   <HelpKINode Title="MaxIntValue field" Url="html/3B41BDB8.htm" />
   <HelpKINode Title="MaxJumpDistance field" Url="html/32A60301.htm" />
@@ -6273,8 +6274,8 @@
   <HelpKINode Title="MouseAreaSize property" Url="html/3E045FFB.htm" />
   <HelpKINode Title="MousePosition property" Url="html/66471648.htm" />
   <HelpKINode Title="MouseScrollWheelValue method">
-    <HelpKINode Title="IMyInput.MouseScrollWheelValue Method " Url="html/20D27267.htm" />
     <HelpKINode Title="IMyInput.MouseScrollWheelValue Method " Url="html/7FEADA20.htm" />
+    <HelpKINode Title="IMyInput.MouseScrollWheelValue Method " Url="html/20D27267.htm" />
   </HelpKINode>
   <HelpKINode Title="MOUSE_ROTATION_INDICATOR_MULTIPLIER field" Url="html/BA65AFB1.htm" />
   <HelpKINode Title="Move field" Url="html/A174D129.htm" />
@@ -10422,22 +10423,22 @@
   <HelpKINode Title="NoDirection field" Url="html/73625D6E.htm" />
   <HelpKINode Title="Noname enumeration member" Url="html/186943FE.htm" />
   <HelpKINode Title="NonConvert enumeration member" Url="html/186943FE.htm" />
-  <HelpKINode Title="None enumeration member">
-    <HelpKINode Title="MyGuiInputDeviceEnum Enumeration" Url="html/3BB8A0B6.htm" />
-    <HelpKINode Title="MyJoystickButtonsEnum Enumeration" Url="html/53EB4EC7.htm" />
-    <HelpKINode Title="MyKeys Enumeration" Url="html/186943FE.htm" />
-    <HelpKINode Title="MyMouseButtonsEnum Enumeration" Url="html/B86338AC.htm" />
-    <HelpKINode Title="MySpectatorCameraMovementEnum Enumeration" Url="html/91812955.htm" />
-    <HelpKINode Title="SpawningOptions Enumeration" Url="html/68DC8DD0.htm" />
-    <HelpKINode Title="EntityFlags Enumeration" Url="html/FF49005A.htm" />
-    <HelpKINode Title="MyJoystickAxesEnum Enumeration" Url="html/29E1DDD7.htm" />
-    <HelpKINode Title="MySharedButtonsEnum Enumeration" Url="html/626D69E9.htm" />
-    <HelpKINode Title="DrawSpriteStencilEnum Enumeration" Url="html/9EAC9677.htm" />
-  </HelpKINode>
   <HelpKINode Title="NONE enumeration member">
     <HelpKINode Title="MyEntityUpdateEnum Enumeration" Url="html/6FBEE3E0.htm" />
     <HelpKINode Title="ShowTextOnScreenFlag Enumeration" Url="html/7AA3ABEA.htm" />
     <HelpKINode Title="TextPanelAccessFlag Enumeration" Url="html/7F94E73F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="None enumeration member">
+    <HelpKINode Title="DrawSpriteStencilEnum Enumeration" Url="html/9EAC9677.htm" />
+    <HelpKINode Title="EntityFlags Enumeration" Url="html/FF49005A.htm" />
+    <HelpKINode Title="MyGuiInputDeviceEnum Enumeration" Url="html/3BB8A0B6.htm" />
+    <HelpKINode Title="MyJoystickAxesEnum Enumeration" Url="html/29E1DDD7.htm" />
+    <HelpKINode Title="MyJoystickButtonsEnum Enumeration" Url="html/53EB4EC7.htm" />
+    <HelpKINode Title="MyKeys Enumeration" Url="html/186943FE.htm" />
+    <HelpKINode Title="MyMouseButtonsEnum Enumeration" Url="html/B86338AC.htm" />
+    <HelpKINode Title="MySharedButtonsEnum Enumeration" Url="html/626D69E9.htm" />
+    <HelpKINode Title="MySpectatorCameraMovementEnum Enumeration" Url="html/91812955.htm" />
+    <HelpKINode Title="SpawningOptions Enumeration" Url="html/68DC8DD0.htm" />
   </HelpKINode>
   <HelpKINode Title="NoObjects enumeration member" Url="html/45CEBB70.htm" />
   <HelpKINode Title="Normal enumeration member" Url="html/7CA02CDD.htm" />
@@ -10733,8 +10734,8 @@
   <HelpKINode Title="PlayConstructionSound method" Url="html/AEAACE8.htm" />
   <HelpKINode Title="Player property" Url="html/40B8A783.htm" />
   <HelpKINode Title="PlayerId field" Url="html/B834EA8E.htm" />
-  <HelpKINode Title="PlayerID property" Url="html/F4DDED5E.htm" />
   <HelpKINode Title="PlayerId property" Url="html/F1125D58.htm" />
+  <HelpKINode Title="PlayerID property" Url="html/F4DDED5E.htm" />
   <HelpKINode Title="Players field" Url="html/5FF8D3EF.htm" />
   <HelpKINode Title="Players property">
     <HelpKINode Title="IMyMultiplayer.Players Property " Url="html/B12FB392.htm" />
@@ -10754,10 +10755,10 @@
   <HelpKINode Title="Position property">
     <HelpKINode Title="ByteStream.Position Property " Url="html/31407DA7.htm" />
     <HelpKINode Title="IMyCamera.Position Property " Url="html/AB8F0599.htm" />
-    <HelpKINode Title="IMyCubeBlock.Position Property " Url="html/A4FE06F9.htm" />
     <HelpKINode Title="IMyCubeBlock.Position Property " Url="html/3C5827BC.htm" />
-    <HelpKINode Title="IMySlimBlock.Position Property " Url="html/4D4468B2.htm" />
+    <HelpKINode Title="IMyCubeBlock.Position Property " Url="html/A4FE06F9.htm" />
     <HelpKINode Title="IMySlimBlock.Position Property " Url="html/5C80DC5A.htm" />
+    <HelpKINode Title="IMySlimBlock.Position Property " Url="html/4D4468B2.htm" />
     <HelpKINode Title="MyLight.Position Property " Url="html/A47DEB7E.htm" />
     <HelpKINode Title="MySpectator.Position Property " Url="html/F7CB79AC.htm" />
     <HelpKINode Title="ResetableMemoryStream.Position Property " Url="html/7AAF3ADE.htm" />
@@ -11997,8 +11998,8 @@
   <HelpKINode Title="ShowMessage method" Url="html/A5785C7E.htm" />
   <HelpKINode Title="ShowMissionScreen method" Url="html/23A12107.htm" />
   <HelpKINode Title="ShowNotification method" Url="html/82A7748C.htm" />
-  <HelpKINode Title="ShowOnHUD property" Url="html/23085FD8.htm" />
   <HelpKINode Title="ShowOnHud property" Url="html/897AE86E.htm" />
+  <HelpKINode Title="ShowOnHUD property" Url="html/23085FD8.htm" />
   <HelpKINode Title="ShowOnHUDChanged event" Url="html/4245AB41.htm" />
   <HelpKINode Title="ShowOnScreen property" Url="html/AB6B4431.htm" />
   <HelpKINode Title="ShowParts property">
@@ -12050,8 +12051,8 @@
   <HelpKINode Title="SmallOwners property" Url="html/1DF72B85.htm" />
   <HelpKINode Title="SmoothStep method" Url="html/57222A6F.htm" />
   <HelpKINode Title="Snapshot enumeration member" Url="html/186943FE.htm" />
-  <HelpKINode Title="sound field" Url="html/EBF22EED.htm" />
   <HelpKINode Title="Sound field" Url="html/A024EDDB.htm" />
+  <HelpKINode Title="sound field" Url="html/EBF22EED.htm" />
   <HelpKINode Title="Space enumeration member" Url="html/186943FE.htm" />
   <HelpKINode Title="SpaceEngineers.Game.Definitions namespace" Url="html/FB627314.htm" />
   <HelpKINode Title="SpaceEngineers.Game.Definitions.MyDemoComponentDefinition class" Url="html/B16BA7A9.htm" />
@@ -12221,8 +12222,8 @@
     <HelpKINode Title="IMySlimBlock.StockpileAllocated Property " Url="html/EFDFE50F.htm" />
   </HelpKINode>
   <HelpKINode Title="StockpileEmpty property">
-    <HelpKINode Title="IMySlimBlock.StockpileEmpty Property " Url="html/9963E028.htm" />
     <HelpKINode Title="IMySlimBlock.StockpileEmpty Property " Url="html/2569E8AF.htm" />
+    <HelpKINode Title="IMySlimBlock.StockpileEmpty Property " Url="html/9963E028.htm" />
   </HelpKINode>
   <HelpKINode Title="Stop method">
     <HelpKINode Title="MyCubeBlockEffect.Stop Method " Url="html/A54B2F4B.htm" />
@@ -12591,12 +12592,12 @@
   <HelpKINode Title="TotalMass field" Url="html/3E755C1A.htm" />
   <HelpKINode Title="TrackTarget method" Url="html/F61F28B5.htm" />
   <HelpKINode Title="TransferItemFrom method">
-    <HelpKINode Title="IMyInventory.TransferItemFrom Method " Url="html/E5D0C4D6.htm" />
     <HelpKINode Title="IMyInventory.TransferItemFrom Method " Url="html/AACD5659.htm" />
+    <HelpKINode Title="IMyInventory.TransferItemFrom Method " Url="html/E5D0C4D6.htm" />
   </HelpKINode>
   <HelpKINode Title="TransferItemTo method">
-    <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/2ABAC3B5.htm" />
     <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/60AAD7A7.htm" />
+    <HelpKINode Title="IMyInventory.TransferItemTo Method " Url="html/2ABAC3B5.htm" />
   </HelpKINode>
   <HelpKINode Title="Transform method">
     <HelpKINode Title="MyPhysicsMesh.Transform Method " Url="html/365ABE51.htm" />
@@ -12809,6 +12810,7 @@
     <HelpKINode Title="IMyCubeBlock.UpdateVisual Method " Url="html/D2296B96.htm" />
     <HelpKINode Title="IMySlimBlock.UpdateVisual Method " Url="html/C34ECB2D.htm" />
     <HelpKINode Title="IMySlimBlock.UpdateVisual Method " Url="html/45230705.htm" />
+    <HelpKINode Title="IMyTerminalControl.UpdateVisual Method " Url="html/34B261BD.htm" />
   </HelpKINode>
   <HelpKINode Title="UpdateVoxelMaterial method" Url="html/19466963.htm" />
   <HelpKINode Title="UpdatingStopped method">
@@ -13309,32 +13311,32 @@
     <HelpKINode Title="IMyInput.WasMiddleMousePressed Method " Url="html/4189C9CB.htm" />
   </HelpKINode>
   <HelpKINode Title="WasMiddleMouseReleased method">
-    <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/8C624088.htm" />
     <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/DD672A17.htm" />
+    <HelpKINode Title="IMyInput.WasMiddleMouseReleased Method " Url="html/8C624088.htm" />
   </HelpKINode>
   <HelpKINode Title="WasRightMousePressed method">
     <HelpKINode Title="IMyInput.WasRightMousePressed Method " Url="html/1C7E7C68.htm" />
     <HelpKINode Title="IMyInput.WasRightMousePressed Method " Url="html/8E8522C6.htm" />
   </HelpKINode>
   <HelpKINode Title="WasRightMouseReleased method">
-    <HelpKINode Title="IMyInput.WasRightMouseReleased Method " Url="html/952C6A6A.htm" />
     <HelpKINode Title="IMyInput.WasRightMouseReleased Method " Url="html/E88CA9FD.htm" />
+    <HelpKINode Title="IMyInput.WasRightMouseReleased Method " Url="html/952C6A6A.htm" />
   </HelpKINode>
   <HelpKINode Title="WasXButton1MousePressed method">
-    <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/E3B66912.htm" />
     <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/7452E86B.htm" />
+    <HelpKINode Title="IMyInput.WasXButton1MousePressed Method " Url="html/E3B66912.htm" />
   </HelpKINode>
   <HelpKINode Title="WasXButton1MouseReleased method">
     <HelpKINode Title="IMyInput.WasXButton1MouseReleased Method " Url="html/DFB2C5A0.htm" />
     <HelpKINode Title="IMyInput.WasXButton1MouseReleased Method " Url="html/8967FE74.htm" />
   </HelpKINode>
   <HelpKINode Title="WasXButton2MousePressed method">
-    <HelpKINode Title="IMyInput.WasXButton2MousePressed Method " Url="html/E2B9E869.htm" />
     <HelpKINode Title="IMyInput.WasXButton2MousePressed Method " Url="html/EA7848FF.htm" />
+    <HelpKINode Title="IMyInput.WasXButton2MousePressed Method " Url="html/E2B9E869.htm" />
   </HelpKINode>
   <HelpKINode Title="WasXButton2MouseReleased method">
-    <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/4A49C59A.htm" />
     <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/25D234ED.htm" />
+    <HelpKINode Title="IMyInput.WasXButton2MouseReleased Method " Url="html/4A49C59A.htm" />
   </HelpKINode>
   <HelpKINode Title="Waypoints field">
     <HelpKINode Title="MyObjectBuilder_AutopilotClipboard.Waypoints Field" Url="html/695E456B.htm" />
@@ -13417,8 +13419,8 @@
   <HelpKINode Title="WorldSafeHalfExtent method" Url="html/4DD8F8B.htm" />
   <HelpKINode Title="WorldSizeKm field" Url="html/677A56C6.htm" />
   <HelpKINode Title="WorldToGridInteger method">
-    <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/2054E500.htm" />
     <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/A1CF5FAD.htm" />
+    <HelpKINode Title="IMyCubeGrid.WorldToGridInteger Method " Url="html/2054E500.htm" />
   </HelpKINode>
   <HelpKINode Title="WorldToScreen method" Url="html/3DEA75B5.htm" />
   <HelpKINode Title="WorldVolume property" Url="html/26221119.htm" />
