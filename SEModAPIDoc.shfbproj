@@ -42,7 +42,7 @@
     <IncludeFavorites>True</IncludeFavorites>
     <BinaryTOC>True</BinaryTOC>
     <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, ProtectedInternalAsProtected</VisibleItems>
-    <MissingTags>Summary, Parameter, Returns, Value, AutoDocumentCtors, Namespace, TypeParameter</MissingTags>
+    <MissingTags>Summary, Parameter, Returns, Value, AutoDocumentCtors, Namespace</MissingTags>
     <DocumentationSources>
       <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Common\Sandbox.Common.csproj" platform="x64" />
       <DocumentationSource sourceFile="$(SESource)\Sources\Sandbox.Game\Sandbox.Game.csproj" platform="x64" />
@@ -175,6 +175,7 @@
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.Entities.Cube" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.EntityComponents.DebugRenders" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.GUI" isExposed="False" />
+<Filter entryType="Namespace" fullName="SpaceEngineers.Game.SessionComponents" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.VoiceChat" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.Game.World" isExposed="False" />
 <Filter entryType="Namespace" fullName="SpaceEngineers.ObjectBuilders" isExposed="False" />
